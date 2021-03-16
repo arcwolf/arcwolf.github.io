@@ -23,8 +23,8 @@ $title-color: #313131;
 $masthead-title-small-color: #c0c0c0;
 
 /* Layout */
-$reverse-layout: true;
-$overlay-sidebar: false;
+$reverse-layout: false; // sidebar position
+$overlay-sidebar: true;
 
 /* Font stack */
 $font-serif: "PT Serif", Georgia, "Times New Roman", serif;
