@@ -43,3 +43,6 @@ bower_components
 
 # sass
 .sass-cache
+
+# cache
+.jekyll-cache/*
