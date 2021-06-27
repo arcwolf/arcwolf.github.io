@@ -1,7 +1,7 @@
 # Site Info
-title: Codinfox Lanyon
-tagline: 'A Jekyll theme based on Lanyon'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
+title: Profile of Seongcheol Baek
+tagline: 'A researcher in electrical network & dynamics'
+description: 'More information can be found <a href="https://www.facebook.com/s.baek0516" target="_blank">here</a>.'
 baseurl: ""
 url: https://arcwolf.github.io
 logo: '/public/logo.png'
@@ -26,8 +26,8 @@ version: 1.0.0
 author:
   name: arcwolf
   fullname: Seongcheol Baek
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  description: An adventurous <strong>researcher</strong> in <strong>electrical network & dynamics</strong>.
+  gravatar: 032095fc3e830d467fd325b4e27e814f # md5 hash of your email address
   contact:
     facebook:  https://www.facebook.com/s.baek0516
     linkedin:  https://www.linkedin.com/in/seongcheol-baek-482aa2179/
@@ -35,18 +35,20 @@ author:
     # twitter:   https://twitter.com/Li_Zhihao
     # weibo:     http://weibo.com/41173780
     instagram: https://www.instagram.com/baeks2ng/
-    email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+    email: mailto:7whitedays@gmail.com
+    # orcid: https://orcid.org/0000-0002-3480-7588
+    # linkedin: https://linkedin.com/in/seongcheol-baek-482aa2179
 
 # Navigation (2nd level links supported)
 nav:
   Home:           
     - '/'
+  About:
+    - '/about/'
   Blog:           
     - '/blog/'
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
-  About:          
-    - '/about/'
   Github Project: 
     - 'http://codinfox.github.io/'
 
@@ -61,5 +63,5 @@ hero:
 # Puglins
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
-disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
+disqus_short_name: '' # leave blank if you don't want disqus
 

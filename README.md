@@ -1,8 +1,8 @@
-# Codinfox-Lanyon
+# Profile Page Based on Codinfox-Lanyon
 
-This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
+This is a personal profile page based on a jekyll template [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
 
-**If you like this project, PLEASE give it a star.**
+**본 템플릿은 [Codinfox-Lanyon](http://codinfox.github.io)에서 확인할 수 있습니다.**
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
@@ -15,6 +15,9 @@ The theme supports:
 3. Integration of FontAwesome, MathJax, Disqus and Google Analytics
 4. and numerous improvements over original Lanyon
 
+## How to develop
+1. Check updates locally in localhost 
+<pre><code>jekyll serve</code></pre>
 
 ## License
 
