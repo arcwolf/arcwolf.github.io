@@ -1,5 +1,5 @@
 # Site Info
-title: Profile of Seongcheol Baek
+title: Seongcheol Baek
 tagline: ''
 description: 'More information can be found <a href="https://www.facebook.com/s.baek0516" target="_blank">here</a>.'
 baseurl: ""
@@ -67,5 +67,5 @@ arcwolf:
 # Puglins
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
-disqus_short_name: '' # leave blank if you don't want disqus
+disqus_short_name: 'S_Baek' # leave blank if you don't want disqus
 
