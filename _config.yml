@@ -45,12 +45,12 @@ nav:
     - '/'
   About:
     - '/about/'
-  Blog:           
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
-  Github Project: 
-    - 'http://codinfox.github.io/'
+  # Blog:           
+  #   - '/blog/'
+  #   - { Categories: '/blog/categories/' }
+  #   - { Tags: '/blog/tags/' }
+  Github Team/Organization: 
+    - 'https://github.com/team-yamayo'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
