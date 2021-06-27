@@ -2,8 +2,16 @@
 layout: default
 title: Home
 ---
+<script type="text/javascript">
+  $('a#link').click(function(){ /* ... action ... */ })
+</script>
 
 <div class="hero">
-  <img src="{{ site.baseurl }}{{ site.hero.image }}" />
-  <p>{{ site.hero.caption }}</p>
-</div> 
+  <img src="{{ site.baseurl }}{{ site.arcwolf.image }}" />
+  <!-- <p>{{ site.arcwolf.caption }}</p> -->
+  <p>Hello, I'm <strong><i>Seongcheol Baek</i></strong>.<br> 
+  As a researcher majoring in Electrical Engineering,<br>
+  I explore the next-generation power system technology.<br>
+  If you want more information about me,<br>
+  please check my <strong><a href="{{ site.nav.About }}" target="_self">curriculum vitae</a></strong> and <strong>SNSs</strong> from the left sidebar.</p>
+</div>

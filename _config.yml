@@ -1,10 +1,10 @@
 # Site Info
 title: Profile of Seongcheol Baek
-tagline: 'A researcher in electrical network & dynamics'
+tagline: ''
 description: 'More information can be found <a href="https://www.facebook.com/s.baek0516" target="_blank">here</a>.'
 baseurl: ""
 url: https://arcwolf.github.io
-logo: '/public/logo.png'
+logo: '/public/logo_arcwolf.png'
 
 # Site configurations
 gems:
@@ -59,6 +59,10 @@ category_page: '/blog/categories/'
 hero:
   image: /public/img/we_will_be_giants_by_yalestewart.jpg
   caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
+
+arcwolf:
+  image: /public/img/profile210627.jpeg
+  caption: At Kamogawa river of Kyoto, Japan in May 19, 2015.
 
 # Puglins
 mathjax: true # whether support mathjax
