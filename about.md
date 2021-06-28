@@ -9,14 +9,14 @@ title: Seongcheol Baek
  Department of Electrical Engineering, Kyoto University
 
 ## Contact 
-7whitedays(at)gamil(dot)com -->
+7whitedays(at)gmail(dot)com -->
 
 Affiliation
 : Hikihara Lab: Laboratory of Advanced Electrical Systems Theory, 
  Department of Electrical Engineering, Kyoto University
 
 Contact
-: 7whitedays(at)gamil(dot)com
+: 7whitedays(at)gmail(dot)com
 
 ---
 ### EDUCATION
