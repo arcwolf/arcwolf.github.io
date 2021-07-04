@@ -66,6 +66,8 @@ arcwolf:
 
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'ya29.c.Kp4BBQiiUKl001PKf3vnZkJqZ9D3HPQXKV0BEUpEmZ5bhvcM-LfAHgH_lcJ7tA02SJ68-BnlQovtYlQxv4vTjlfRshNnQOFQ7dBP2tmS7C5Hp08OAeprfCjm1NYgOJ9lcO0_UUbUGMMO9NSFnVdjOKrGhgDD4hkBjfspT7OySDypWnZcIQ9egvU7lT_FbvM5FV8YLkuUYy1S4noqEB0ZdUc' # leave blank if you don't want google analytics
+# google_analytics_token: 'ya29.c.Kp4BBQiiUKl001PKf3vnZkJqZ9D3HPQXKV0BEUpEmZ5bhvcM-LfAHgH_lcJ7tA02SJ68-BnlQovtYlQxv4vTjlfRshNnQOFQ7dBP2tmS7C5Hp08OAeprfCjm1NYgOJ9lcO0_UUbUGMMO9NSFnVdjOKrGhgDD4hkBjfspT7OySDypWnZcIQ9egvU7lT_FbvM5FV8YLkuUYy1S4noqEB0ZdUc' # leave blank if you don't want google analytics
 disqus_short_name: 'S_Baek' # leave blank if you don't want disqus
 
+# Google Analytics
+google_analytics: G-QNR0GYSBLW
