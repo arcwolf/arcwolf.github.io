@@ -14,8 +14,8 @@ title: Seongcheol Baek
 Affiliation
 : Pohang University of Science and Technology (POSTECH), Department of Electrical Engineering 
 - *Position*: Postdoctoral Researcher
-- *At (1)*: Energy Systems Laboratory
-- *At (2)*: Future IT Innovation Laboratory
+- *Lab 1*: Energy Systems Laboratory
+- *Lab 2*: Future IT Innovation Laboratory
 
 Contact
 : Academic
