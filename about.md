@@ -12,15 +12,15 @@ title: Seongcheol Baek
 7whitedays(at)gmail(dot)com -->
 
 Affiliation
-: Postdoctoral Researcher
+: Postdoctoral Researcher, Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH)
 - Energy Systems Laboratory
 - Future IT Innovation Laboratory
-Department of Electrical Engineering
-Pohang University of Science and Technology (POSTECH)
 
 Contact
-: baek0516(at)postech(dot)ac(dot)kr
-: 7whitedays(at)gmail(dot)com
+: Academic
+- baek0516(at)postech(dot)ac(dot)kr
+: Personal
+- 7whitedays(at)gmail(dot)com
 
 ---
 ### EDUCATION
