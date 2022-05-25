@@ -12,9 +12,10 @@ title: Seongcheol Baek
 7whitedays(at)gmail(dot)com -->
 
 Affiliation
-: Postdoctoral Researcher, Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH)
-- Energy Systems Laboratory
-- Future IT Innovation Laboratory
+: Pohang University of Science and Technology (POSTECH), Department of Electrical Engineering 
+- *Position*: Postdoctoral Researcher
+- *At (1)*: Energy Systems Laboratory
+- *At (2)*: Future IT Innovation Laboratory
 
 Contact
 : Academic
@@ -25,16 +26,16 @@ Contact
 ---
 ### EDUCATION
 PhD
-: Kyoto University, Department of Electrical Engineering,
-(Hikihara Lab: Laboratory of Advanced Electrical Systems Theory) 
+: Kyoto University, Department of Electrical Engineering
 - *Dissertation*: “Dynamical Analysis and Decentralized Control of Power Packet Network”
+- *Lab*: Laboratory of Advanced Electrical Systems Theory
 - *Commitee*: Prof. Takashi Hikihara (chair), Prof. Shinji Doi, and Prof. Ken Umeno
 - *Date*: March 23, 2021
 
 MS
-: Kyoto University, Department of Electrical Engineering,
-(Hikihara Lab: Laboratory of Advanced Electrical Systems Theory)
+: Kyoto University, Department of Electrical Engineering
 - *Thesis*: “Model of Distributed Control and Analysis of Power Transmission on Power Packet Distribution Network”
+- *Lab*: Laboratory of Advanced Electrical Systems Theory
 - *Supervisor*: Prof. Takashi Hikihara
 - *Date*: March 26, 2018
 
