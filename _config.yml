@@ -1,6 +1,6 @@
 # Site Info
 title: Seongcheol Baek
-tagline: 'Forward Progress'
+tagline: 'Profile Page'
 description: 'More information can be found <a href="https://www.facebook.com/s.baek0516" target="_blank">here</a>.'
 baseurl: ""
 url: https://arcwolf.github.io
@@ -45,10 +45,10 @@ nav:
     - '/'
   About:
     - '/about/'
-  Blog:           
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+  # Blog:           
+  #   - '/blog/'
+  #   - { Categories: '/blog/categories/' }
+  #   - { Tags: '/blog/tags/' }
   Github Team/Organization: 
     - 'https://github.com/team-yamayo'
 
