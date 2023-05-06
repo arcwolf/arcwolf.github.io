@@ -55,6 +55,16 @@ nav:
 nav_ex:
   ESL:
     - 'https://sites.google.com/view/youngjinkim/home'
+  POSTECH:
+    - 'https://www.postech.ac.kr/eng/'
+  GoogleScholar:
+    - 'https://scholar.google.co.jp/citations?user=ue-Lw48AAAAJ&hl=en'
+  orcid:
+    - 'https://orcid.org/0000-0002-3480-7588'
+  linkedin:
+    - 'https://www.linkedin.com/in/seongcheol-baek-482aa2179/'
+  webofscience:
+    - 'https://www.webofscience.com/wos/author/record/AGJ-1585-2022'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'

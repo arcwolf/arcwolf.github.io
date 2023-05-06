@@ -6,19 +6,32 @@ title: Home
 <div class="hero">
   <img src="{{ site.baseurl }}{{ site.arcwolf.image }}" />
   <!-- <p>{{ site.arcwolf.caption }}</p> -->
-  <span>
+  <p>
     <h2><b>Dr. Seongcheol Baek</b></h2>
     <h4>
       Postdoctoral Researcher,<br>
       C/o, Dr. Young-Jin Kim,
     </h4>
     <h4>
-      <a href="{{ site.nav_ex.ESL }}" target="_blank">Energy systems Lab</a>, <br>
+      <a href="{{ site.nav_ex.ESL }}" target="_blank"><b>Energy systems Lab</b></a>, <br>
       Department of Electrical Engineering, <br>
-      Pohang University of Science and Technology (POSTECH), <br>
+      Pohang University of Science and Technology (<a href="{{ site.nav_ex.POSTECH }}" target="_blank"><b>POSTECH</b></a>), <br>
       77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongsangbuk-do, 37673, South Korea.
     </h4>
-  </span>
+    <h4>
+      Research Interests
+    </h4>
+  </p>
+
+  <p>
+    <button class="button-6" role="button" onclick = 'location.href = "{{ site.nav.about }}"'>About</button>
+    <button class="button-6" role="button" onclick = 'location.href = "{{ site.nav_ex.GoogleScholar }}"'>Google Scholar</button>
+    <button class="button-6" role="button" onclick = 'location.href = "{{ site.nav_ex.orcid }}"'>ORCiD</button>
+    <button class="button-6" role="button" onclick = 'location.href = "{{ site.nav_ex.linkedin }}"'>LinkedIn</button>
+    <button class="button-6" role="button" onclick = 'location.href = "{{ site.nav_ex.webofscience }}"'>Web of Science</button>
+  </p>
+  
+  <!-- <button type="button">Click Me!</button> -->
   <!-- <p>Hello, I'm <strong><i>Seongcheol Baek</i></strong>.<br> 
   As a researcher majoring in Electrical Engineering,<br>
   I explore the next-generation power system technology.<br>
