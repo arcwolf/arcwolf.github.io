@@ -52,6 +52,10 @@ nav:
   Github Team/Organization: 
     - 'https://github.com/hhashbrown'
 
+nav_ex:
+  ESL:
+    - 'https://sites.google.com/view/youngjinkim/home'
+
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
