@@ -18,6 +18,13 @@
   // }
 }
 
+.h4_left {
+  text-align: left !important;
+}
+
+.name_logo {
+  font-family: $font-lato;
+}
 
 // <!-- HTML !-->
 // <button class="button-6" role="button">Button 6</button>
@@ -42,9 +49,9 @@
   // min-height: 1.5rem;
   padding: calc(.875rem - 10px) calc(1.5rem - 10px);
   margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 10px;
-  margin-right: 10px;
+  // margin-right: 5px;
+  // margin-left: 10px;
+  // margin-right: 10px;
   position: relative;
   text-decoration: none;
   transition: all 250ms;

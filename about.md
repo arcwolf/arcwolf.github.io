@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Seongcheol Baek
+# title: Seongcheol Baek
+title: About
 ---
 
 ---

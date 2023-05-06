@@ -7,11 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
+    {{ site.title }}
   </title>
 
   <!-- CSS -->
@@ -21,8 +17,8 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
 
   <!-- Icons -->
-  <link rel="favicon_arcwolf_v2" sizes="144x144" href="{{ site.baseurl }}/public/favicon_arcwolf_v2.png">
-  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon_arcwolf_v2.ico">
+  <!-- <link rel="favicon_arcwolf_v2" sizes="144x144" href="{{ site.baseurl }}/public/favicon_arcwolf_v2.png">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon_arcwolf_v2.ico"> -->
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">

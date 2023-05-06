@@ -4,7 +4,7 @@ title: Seongcheol Baek
 description: 'More information can be found <a href="https://www.facebook.com/s.baek0516" target="_blank">here</a>.'
 baseurl: ""
 url: https://arcwolf.github.io
-logo: '/public/logo_myname.png'
+# logo: '/public/logo_myname.png'
 
 # Site configurations
 gems:
