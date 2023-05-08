@@ -26,7 +26,7 @@ version: 1.0.0
 author:
   name: arcwolf
   fullname: Seongcheol Baek
-  # description: A <strong>researcher</strong> in <strong>electrical system</strong>.
+  description: Practice makes perfect
   gravatar: 032095fc3e830d467fd325b4e27e814f # md5 hash of your email address
   contact:
     facebook:  https://www.facebook.com/s.baek0516
@@ -49,6 +49,8 @@ nav:
   #   - '/blog/'
   #   - { Categories: '/blog/categories/' }
   #   - { Tags: '/blog/tags/' }
+
+nav_others:
   Brunch Story (Blog):
     - 'https://brunch.co.kr/@8ea6582f25ed4a1#articles'
   Github Team: 

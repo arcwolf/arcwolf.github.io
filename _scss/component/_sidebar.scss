@@ -59,6 +59,17 @@
   margin-bottom: 0;
 }
 
+/* Sidebar section title */
+.sidebar-sec-title {
+  padding: 1rem;
+  margin-bottom: 0;
+}
+
+/* Social icons */
+.sidebar-centered {
+  text-align: center;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   border-bottom: 1px solid rgba(255,255,255,.1);
@@ -86,7 +97,17 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .sidebar-item {
-    padding: 1.5rem;
+    // padding: 1.5rem;
+    padding-top: 1.0rem;
+    padding-bottom: 1.0rem;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+  }
+  .sidebar-sec-title {
+    padding-top: 1.0rem;
+    padding-bottom: 1.0rem;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
   }
   .sidebar-nav-item {
     padding-left:  1.5rem;
