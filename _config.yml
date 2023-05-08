@@ -49,7 +49,9 @@ nav:
   #   - '/blog/'
   #   - { Categories: '/blog/categories/' }
   #   - { Tags: '/blog/tags/' }
-  Github Team/Organization: 
+  Brunch Story (Blog):
+    - 'https://brunch.co.kr/@8ea6582f25ed4a1#articles'
+  Github Team: 
     - 'https://github.com/hhashbrown'
 
 nav_ex:
