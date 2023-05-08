@@ -4,7 +4,6 @@ layout: page
 title: About
 ---
 
----
 <!-- ## Current Affiliation
  Hikihara Lab: Laboratory of Advanced Electrical Systems Theory 
  Department of Electrical Engineering, Kyoto University

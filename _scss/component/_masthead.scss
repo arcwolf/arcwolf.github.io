@@ -9,6 +9,7 @@
   padding-bottom: 1rem;
   margin-bottom: 3rem;
   border-bottom: 1px solid $lightgrey;
+  // z-index: 9999;  /* set this header located front */
   // background-color: rgba(255,255,255,0.75);
   background-color: white;
   @media (min-width: 30rem) {
