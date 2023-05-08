@@ -45,10 +45,10 @@ nav:
     - '/'
   About:
     - '/about/'
-  Blog:           
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+  # Blog:           
+  #   - '/blog/'
+  #   - { Categories: '/blog/categories/' }
+  #   - { Tags: '/blog/tags/' }
   Brunch Story (Blog):
     - 'https://brunch.co.kr/@8ea6582f25ed4a1#articles'
   Github Team: 
