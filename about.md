@@ -109,10 +109,9 @@ Peer-Reviewed International Conference Proceedings
 : [3] **S. Baek**, H. Ando, and T. Hikihara, “Automata Modeling on Power Packet Distribution Network for Power Flow Analysis,” in *Proceedings of NOLTA’18*, no. C1L-A3, pp. 464-467, (IEICE, Tarragona, Spain, 2018).
 
 Other Conference Proceedings and Presentations
-: [1] Y. Sangenya, **S. Baek**, and T. Hikihara, “Structure Dependence of Power Output on Power Packet Distribution Network,” in *Proc. 2019 IEICE General Conference*, vol. N-2-8, p. 292, Tokyo, Japan, 2019, (in Japanese).
+: [1] **S. Baek**, and Y. -J. Kim, , “Heat Pump : Grid Flexible Resource 'P2H',” *KIEE Magazine*, vol. 73, no. 1, pp. 32-37, Jan. 2024, (in Korean).
 : [2] **S. Baek**, and Y. -J. Kim, “ADMM-Based P2P Energy Trading Strategy for Prosumer Benefits and System Reliability in Distribution System,” in *Proc. KIEE Conferencee*, pp. 856-857, Pyeongchang, Republic of Korea, 2023, (in Korean).
 : [3] **S. Baek**, N. -Y. Kim, S. -W. Yim, and S. -D. Yu, S. -W. Hwang, H. Lee., and Y. -J. Kim, “Optimal Planning and Economic Analysis of Microgrid Based on Energy Self-Sufficiency Rate,” in *Proc. KIEE Conferencee*, pp. 9-11, Gwangju, Republic of Korea, 2022, (in Korean).
-
 : [4] Y. Sangenya, **S. Baek**, and T. Hikihara, “Structure Dependence of Power Output on Power Packet Distribution Network,” in *Proc. 2019 IEICE General Conference*, vol. N-2-8, p. 292, Tokyo, Japan, 2019, (in Japanese).
 : [5] **S. Baek**, H. Ando, and T. Hikihara, “A Study on Distributed Control of Power Packet Distribution Network based on Consensus Model,” in *IEICE Technical Report, Nonlinear Problems*, vol. 118, no. 76, CCS2018-1, pp. 1–5, 2018, (in Japanese).
 : [6] **S. Baek**, H. Ando, and T. Hikihara, “A Study on Decentralized Operations of Power Routers with Consensus in Power Packet Distribution Network,” in *Proc. 62th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 212-5, Kyoto, Japan, 2018, (in Japanese).
