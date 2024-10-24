@@ -96,7 +96,7 @@ Korea-Japan Joint Government Scholarship Program
 ---
 ### PUBLICATIONS
 Journal Publications
-: [1] **S. Baek**, S. Hahm, Y. -J. Kim, and J. P. S. Catalão, “Security-constrained P2P Energy Trading Strategy via Priced-based Regularization of ADMM in a Distribution Network,” *IEEE Access*, Early Access, 2024. [doi:10.1109/ACCESS.2024.348150]([https://10.1109/ACCESS.2024.348150](https://ieeexplore.ieee.org/document/10720016))
+: [1] **S. Baek**, S. Hahm, Y. -J. Kim, and J. P. S. Catalão, “Security-constrained P2P Energy Trading Strategy via Priced-based Regularization of ADMM in a Distribution Network,” *IEEE Access*, Early Access, 2024. [doi:10.1109/ACCESS.2024.348150](https://ieeexplore.ieee.org/document/10720016)
 : [2] **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “Decentralized Algorithms for Consensus-Based Power Packet Distribution,” *Nonlinear Theory and Its Applications, IEICE*, vol. 12, no. 2, pp. 181–193, 2021. [doi:10.1587/nolta.12.181](https://doi.org/10.1587/nolta.12.181)
 : [3] **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “Consensus-Based Distribution of Power Packets and Decentralized Control for Routing,” *AIP chaos: An Interdisciplinary Journal of Nonlinear Science*, vol. 30, no. 3, pp. 033115, 2020. [doi:10.1063/1.5134735](https://doi.org/10.1063/1.5134735)
 
