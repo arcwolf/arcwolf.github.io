@@ -20,6 +20,7 @@ title: About
 Contact
 : Academic
 - baek0516(at)postech(dot)ac(dot)kr
+- s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
 : Personal
 - 7whitedays(at)gmail(dot)com
 
