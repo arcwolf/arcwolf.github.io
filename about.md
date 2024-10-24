@@ -60,7 +60,7 @@ BS
 ### WORK EXPERIENCE
 Postdoctoral Researcher
 : Aug. 2021 - Aug. 2024
-: Energy Systems Laboratory, Pohang University of Science and Technology (POSTECH), Department of Electrical Engineering (POSTECH), Pohang, Republic of Korea
+: Energy Systems Laboratory, Pohang University of Science and Technology (POSTECH), Department of Electrical Engineering, Pohang, Republic of Korea
 
 Program-Specific Researcher (Postdoctoral Fellow) 
 : Apr. 2021 – May 2021 
