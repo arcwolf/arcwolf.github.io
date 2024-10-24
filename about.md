@@ -104,19 +104,23 @@ Journal Papers in Preparation
 : [2] **S. Baek**, H. Ando, and T. Hikihara, “Power Packet Distribution Problem and Its Optimization using Consensus-Based Approach,” (in preparation).
 
 Peer-Reviewed International Conference Proceedings
-: [4] **S. Baek**, H. Ando, and T. Hikihara, “Power Packet Distribution Problem on Switching Topology with Demanding Nodes through Consensus-Based Approach,” in *Proceedings of NOLTA’19*, no. 3PM-2D1, pp. 177–178, (IEICE, Kuala Lumpur, Malaysia, 2019).
-: [5] **S. Baek**, and H. Ando, and T. Hikihara, “Consensus-Based Distributed Control of Power Packet Distribution Network,” in *Proceedings of JKCCS’19*, no. A-4, pp. 8– 11, (IEICE, Pyeongchang, Korea, 2019).
-: [6] **S. Baek**, H. Ando, and T. Hikihara, “Automata Modeling on Power Packet Distribution Network for Power Flow Analysis,” in *Proceedings of NOLTA’18*, no. C1L-A3, pp. 464-467, (IEICE, Tarragona, Spain, 2018).
+: [1] **S. Baek**, H. Ando, and T. Hikihara, “Power Packet Distribution Problem on Switching Topology with Demanding Nodes through Consensus-Based Approach,” in *Proceedings of NOLTA’19*, no. 3PM-2D1, pp. 177–178, (IEICE, Kuala Lumpur, Malaysia, 2019).
+: [2] **S. Baek**, and H. Ando, and T. Hikihara, “Consensus-Based Distributed Control of Power Packet Distribution Network,” in *Proceedings of JKCCS’19*, no. A-4, pp. 8– 11, (IEICE, Pyeongchang, Korea, 2019).
+: [3] **S. Baek**, H. Ando, and T. Hikihara, “Automata Modeling on Power Packet Distribution Network for Power Flow Analysis,” in *Proceedings of NOLTA’18*, no. C1L-A3, pp. 464-467, (IEICE, Tarragona, Spain, 2018).
 
 Other Conference Proceedings and Presentations
-: [7] Y. Sangenya, **S. Baek**, and T. Hikihara, “Structure Dependence of Power Output on Power Packet Distribution Network,” in *Proc. 2019 IEICE General Conference*, vol. N-2-8, p. 292, Tokyo, Japan, 2019, (in Japanese).
-: [8] **S. Baek**, H. Ando, and T. Hikihara, “A Study on Distributed Control of Power Packet Distribution Network based on Consensus Model,” in *IEICE Technical Report, Nonlinear Problems*, vol. 118, no. 76, CCS2018-1, pp. 1–5, 2018, (in Japanese).
-: [9] **S. Baek**, H. Ando, and T. Hikihara, “A Study on Decentralized Operations of Power Routers with Consensus in Power Packet Distribution Network,” in *Proc. 62th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 212-5, Kyoto, Japan, 2018, (in Japanese).
-: [10] S. Katayama, **S. Baek**, and T. Hikihara, “A Numerical Study of Power Line Usage for Energy on Demand Control by Power Packet,” in *Proc. 2018 IEICE General Conference*, vol. N-2-1, p. 252, Tokyo, Japan, 2018, (in Japanese).
-: [11] **S. Baek**, and T. Hikihara, “Evaluation for Transmission of Power and Information Tag by Power Packet in Multi-stage Power-router,” in *Proc. 61th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 133-5, Kyoto, Japan, 2017, (in Japanese).
-: [12] **S. Baek**, and T. Hikihara, “Evaluation for Transmission of Power and Information Tag by Regulating Payload of Power Packet,” in *Proc. 2017 IEICE General Conference*, vol. NBS-1-2, p. S–52, Nagoya, Japan, 2017, (in Japanese).
-: [13] Y. Susuki, **S. Baek**, and T. Hikihara, “Computer Simulation of Distribution Voltage Profile Using a Nonlinear ODE,” in *IEICE Technical Report, Nonlinear Problems*, vol. 116, no. 215, pp. 15–20, 2016, (in Japanese).
-: [14] **S. Baek**, Y. Susuki, Y. Ota, and T. Hikihara, “Analysis of Distribution Voltage Profile by ODE Model Incorporated with Power Demand/Supply Data,” in *Proc. 60th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 156-2, Kyoto, Japan, 2016, (in Japanese).
+: [1] Y. Sangenya, **S. Baek**, and T. Hikihara, “Structure Dependence of Power Output on Power Packet Distribution Network,” in *Proc. 2019 IEICE General Conference*, vol. N-2-8, p. 292, Tokyo, Japan, 2019, (in Japanese).
+: [2] Y. Sangenya, **S. Baek**, and T. Hikihara, “Structure Dependence of Power Output on Power Packet Distribution Network,” in *Proc. 2019 IEICE General Conference*, vol. N-2-8, p. 292, Tokyo, Japan, 2019, (in Japanese).
+: [3] **S. Baek**, N. -Y. Kim, S. -W. Yim, and S. -D. Yu, S. -W. Hwang, H. Lee., and Y. -J. Kim, “Optimal Planning and Economic Analysis of Microgrid Based on Energy Self-Sufficiency Rate,” in *Proc. KIEE Conferencee*, vol. N-2-8, pp. 9-11, Gwangju, Republic of Korea, 2021, (in Korean).
+
+: [4] Y. Sangenya, **S. Baek**, and T. Hikihara, “Structure Dependence of Power Output on Power Packet Distribution Network,” in *Proc. 2019 IEICE General Conference*, vol. N-2-8, p. 292, Tokyo, Japan, 2019, (in Japanese).
+: [5] **S. Baek**, H. Ando, and T. Hikihara, “A Study on Distributed Control of Power Packet Distribution Network based on Consensus Model,” in *IEICE Technical Report, Nonlinear Problems*, vol. 118, no. 76, CCS2018-1, pp. 1–5, 2018, (in Japanese).
+: [6] **S. Baek**, H. Ando, and T. Hikihara, “A Study on Decentralized Operations of Power Routers with Consensus in Power Packet Distribution Network,” in *Proc. 62th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 212-5, Kyoto, Japan, 2018, (in Japanese).
+: [7] S. Katayama, **S. Baek**, and T. Hikihara, “A Numerical Study of Power Line Usage for Energy on Demand Control by Power Packet,” in *Proc. 2018 IEICE General Conference*, vol. N-2-1, p. 252, Tokyo, Japan, 2018, (in Japanese).
+: [8] **S. Baek**, and T. Hikihara, “Evaluation for Transmission of Power and Information Tag by Power Packet in Multi-stage Power-router,” in *Proc. 61th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 133-5, Kyoto, Japan, 2017, (in Japanese).
+: [9] **S. Baek**, and T. Hikihara, “Evaluation for Transmission of Power and Information Tag by Regulating Payload of Power Packet,” in *Proc. 2017 IEICE General Conference*, vol. NBS-1-2, p. S–52, Nagoya, Japan, 2017, (in Japanese).
+: [10] Y. Susuki, **S. Baek**, and T. Hikihara, “Computer Simulation of Distribution Voltage Profile Using a Nonlinear ODE,” in *IEICE Technical Report, Nonlinear Problems*, vol. 116, no. 215, pp. 15–20, 2016, (in Japanese).
+: [11] **S. Baek**, Y. Susuki, Y. Ota, and T. Hikihara, “Analysis of Distribution Voltage Profile by ODE Model Incorporated with Power Demand/Supply Data,” in *Proc. 60th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 156-2, Kyoto, Japan, 2016, (in Japanese).
 
 ---
 ### TEACHING EXPERIENCE
