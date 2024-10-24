@@ -67,12 +67,12 @@ Program-Specific Researcher (Postdoctoral Fellow)
 : Laboratory of Advanced Electrical Systems Theory Department of Electrical Engineering, Kyoto University, Kyoto, Japan
 > As a researcher in the laboratory, I worked on writing programs for network simulation and publishing journals.
 
-Part-time System Engineer (ML, Computer Vision) 
+System Engineer (ML, Computer Vision) 
 : Jan. 24, 2020 – Dec. 31, 2020 
 : Rutilea, Kyoto, Japan
 > As a system engineer, I worked for the processing of computer vision based on Python OpenCV. Prominent works such as a planar matching and 3d back projection were provided in this period.
 
-Long-term Internship System Engineer (Web) 
+Internship System Engineer (Web) 
 : Apr. 1, 2018 – Nov. 25, 2019 
 : Kyoto Innovation, Kyoto, Japan
 > As a system engineer, I worked for the web development based on web service workframe and numerous web languages such as PHP, HTML, CSS, JavaScript, and SQL. During this period, I gained a wealth of experience in web development.
