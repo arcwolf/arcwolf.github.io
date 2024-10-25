@@ -101,7 +101,7 @@ Journal Publications
 : [3] **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “Consensus-Based Distribution of Power Packets and Decentralized Control for Routing,” *AIP chaos: An Interdisciplinary Journal of Nonlinear Science*, vol. 30, no. 3, pp. 033115, 2020. [doi:10.1063/1.5134735](https://doi.org/10.1063/1.5134735)
 
 Journal Papers in Preparation
-: [1] S. Hahm, **S. Baek**, Y. -E. Jang, and Y. -J. Kim, “Virtual Battery Modeling of Multi-zone, Multi-build-ing HVAC Systems for Demand Response,” (in preparation).
+: [1] S. Hahm, **S. Baek**, Y. -E. Jang, and Y. -J. Kim, “Virtual Battery Modeling of Multi-zone, Multi-building HVAC Systems for Demand Response,” (in preparation).
 : [2] **S. Baek**, H. Ando, and T. Hikihara, “Power Packet Distribution Problem and Its Optimization using Consensus-Based Approach,” (in preparation).
 
 Peer-Reviewed International Conference Proceedings
