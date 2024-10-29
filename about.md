@@ -139,6 +139,14 @@ fractal theory, was studied. The assistant supported the preparation of the lect
 
 ---
 ### MEMBERS
+Member 
+: Jun. 2023 – Jun. 2024 
+: IEEE Power and Energy Society (PES)
+
+Member 
+: Jul. 2021 – Jul. 2025 
+: The Korean Institute of Electrical Engineers (KIEE)
+
 Student Member 
 : Apr. 2016 – Mar. 2021 
 : Institute of Electronics, Information and Communication Engineers (IEICE)
