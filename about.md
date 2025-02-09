@@ -24,6 +24,32 @@ Contact
 - s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
 
 ---
+### WORK EXPERIENCE
+Senior Research Engineer
+: Feb. 2025 – Present
+: Division of Eco Solution, LG Electronics, Changwon, Republic of Korea
+
+Postdoctoral Researcher
+: Aug. 2021 – Aug. 2024
+: Energy Systems Laboratory, Pohang University of Science and Technology (POSTECH), Department of Electrical Engineering, Pohang, Republic of Korea
+
+Program-Specific Researcher (Postdoctoral Fellow) 
+: Apr. 2021 – May 2021 
+: Laboratory of Advanced Electrical Systems Theory Department of Electrical Engineering, Kyoto University, Kyoto, Japan
+> As a researcher in the laboratory, I worked on writing programs for network simulation and publishing journals.
+
+System Engineer (ML, Computer Vision) 
+: Jan. 24, 2020 – Dec. 31, 2020 
+: Rutilea, Kyoto, Japan
+> As a system engineer, I worked for the processing of computer vision based on Python OpenCV. Prominent works such as a planar matching and 3d back projection were provided in this period.
+
+Internship System Engineer (Web) 
+: Apr. 1, 2018 – Nov. 25, 2019 
+: Kyoto Innovation, Kyoto, Japan
+> As a system engineer, I worked for the web development based on web service workframe and numerous web languages such as PHP, HTML, CSS, JavaScript, and SQL. During this period, I gained a wealth of experience in web development.
+
+
+---
 ### EDUCATION
 PhD
 : Kyoto University, Department of Electrical Engineering
@@ -55,30 +81,6 @@ BS
 - Decentralized Control 
 - Algorithmic Design
 
----
-### WORK EXPERIENCE
-Senior Research Engineer
-: Feb. 2025 – Present
-: Division of Eco Solution, LG Electronics, Changwon, Republic of Korea
-
-Postdoctoral Researcher
-: Aug. 2021 – Aug. 2024
-: Energy Systems Laboratory, Pohang University of Science and Technology (POSTECH), Department of Electrical Engineering, Pohang, Republic of Korea
-
-Program-Specific Researcher (Postdoctoral Fellow) 
-: Apr. 2021 – May 2021 
-: Laboratory of Advanced Electrical Systems Theory Department of Electrical Engineering, Kyoto University, Kyoto, Japan
-> As a researcher in the laboratory, I worked on writing programs for network simulation and publishing journals.
-
-System Engineer (ML, Computer Vision) 
-: Jan. 24, 2020 – Dec. 31, 2020 
-: Rutilea, Kyoto, Japan
-> As a system engineer, I worked for the processing of computer vision based on Python OpenCV. Prominent works such as a planar matching and 3d back projection were provided in this period.
-
-Internship System Engineer (Web) 
-: Apr. 1, 2018 – Nov. 25, 2019 
-: Kyoto Innovation, Kyoto, Japan
-> As a system engineer, I worked for the web development based on web service workframe and numerous web languages such as PHP, HTML, CSS, JavaScript, and SQL. During this period, I gained a wealth of experience in web development.
 
 ---
 ### HONORS AND AWARDS
