@@ -18,11 +18,10 @@ title: About
 - *Lab 2*: Future IT Innovation Laboratory -->
 
 Contact
-: Academic
-- baek0516(at)postech(dot)ac(dot)kr
-- s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
 : Personal
 - 7whitedays(at)gmail(dot)com
+: Academic
+- s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
 
 ---
 ### EDUCATION
@@ -58,6 +57,10 @@ BS
 
 ---
 ### WORK EXPERIENCE
+Senior Research Engineer
+: Feb. 2025 – Present
+: Division of Eco Solution, LG Electronics, Changwon, Republic of Korea
+
 Postdoctoral Researcher
 : Aug. 2021 – Aug. 2024
 : Energy Systems Laboratory, Pohang University of Science and Technology (POSTECH), Department of Electrical Engineering, Pohang, Republic of Korea
