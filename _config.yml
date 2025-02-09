@@ -57,6 +57,10 @@ nav_others:
     - 'https://github.com/hhashbrown'
 
 nav_ex:
+  LGE: 
+    - 'https://www.lg.com/us/business'
+  LGE_ES:
+    - 'https://www.lgnewsroom.com/about/about-lg/'
   ESL:
     - 'https://sites.google.com/view/youngjinkim/home'
   POSTECH:
@@ -84,7 +88,8 @@ category_page: '/blog/categories/'
 
 arcwolf:
   image: /public/img/profile_main20250209.JPG
-  caption: At my workplace of Pohang, South Korea in July 20, 2022.
+  caption: At my place of Busan, South Korea, in January 22, 2025.
+  # caption: At my workplace of Pohang, South Korea in July 20, 2022.
 
 # Puglins
 mathjax: true # whether support mathjax
