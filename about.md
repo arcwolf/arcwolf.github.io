@@ -17,11 +17,18 @@ title: About
 - *Lab 1*: Energy Systems Laboratory
 - *Lab 2*: Future IT Innovation Laboratory -->
 
-Contact
+<!-- Contact
 : Personal
 - 7whitedays(at)gmail(dot)com
 : Academic
-- s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
+- s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp -->
+
+### Contact
+Personal
+: 7whitedays(at)gmail(dot)com
+
+Academic
+: s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
 
 ---
 ### WORK EXPERIENCE
