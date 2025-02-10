@@ -80,7 +80,7 @@ nav_ex:
   paper_phd:
     - 'https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/263664'
   epson_scholarship:
-    -  'https://www.epson-kokusaisyogaku.jp/':
+    -  'https://www.epson-kokusaisyogaku.jp/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
