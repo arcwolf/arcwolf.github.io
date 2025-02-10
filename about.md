@@ -63,7 +63,7 @@ Internship System Engineer (Web)
 ### EDUCATION
 PhD
 : Kyoto University, Department of Electrical Engineering
-- *Dissertation*: “Dynamical Analysis and Decentralized Control of Power Packet Network”
+- *Dissertation*: “<a href="{{ site.nav_ex.paper_phd }}" target="_blank">Dynamical Analysis and Decentralized Control of Power Packet Network</a>”
 - *Lab*: Laboratory of Advanced Electrical Systems Theory
 - *Commitee*: Prof. Takashi Hikihara (chair), Prof. Shinji Doi, and Prof. Ken Umeno
 - *Date*: March 23, 2021
