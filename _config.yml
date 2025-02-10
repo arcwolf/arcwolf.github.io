@@ -77,6 +77,8 @@ nav_ex:
     - 'https://www.linkedin.com/in/seongcheol-baek-482aa2179/'
   webofscience:
     - 'https://www.webofscience.com/wos/author/record/AGJ-1585-2022'
+  paper_phd:
+    - 'https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/263664'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
