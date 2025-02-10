@@ -94,7 +94,7 @@ BS
 
 ---
 ### HONORS AND AWARDS
-Epson International Scholarship 
+<a href="{{ site.nav_ex.epson_scholarship }}" target="_blank">Epson International Scholarship</a> 
 : Apr. 2020 – Mar. 2021
 
 Best Paper Award 
