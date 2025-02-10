@@ -23,7 +23,7 @@ title: About
 : Academic
 - s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp -->
 
-### Contact
+### CONTACT
 Personal
 : 7whitedays(at)gmail(dot)com
 
