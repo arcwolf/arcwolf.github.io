@@ -34,11 +34,11 @@ Academic
 ### WORK EXPERIENCE
 Senior Research Engineer
 : Feb. 2025 – Present
-: Division of Eco Solution, LG Electronics, Changwon, Republic of Korea
+: <a href="{{ site.nav_ex.LGE_ES }}" target="_blank"><b>Division of Eco Solution</b></a>, <a href="{{ site.nav_ex.LGE }}" target="_blank"><b>LG Electronics</b></a>, Changwon, Republic of Korea
 
 Postdoctoral Researcher
 : Aug. 2021 – Aug. 2024
-: Energy Systems Laboratory, Pohang University of Science and Technology (POSTECH), Department of Electrical Engineering, Pohang, Republic of Korea
+: <a href="{{ site.nav_ex.ESL }}" target="_blank">Energy Systems Laboratory</a>, Pohang University of Science and Technology (<a href="{{ site.nav_ex.POSTECH }}" target="_blank"><b>POSTECH</b></a>), Department of Electrical Engineering, Pohang, Republic of Korea
 
 Program-Specific Researcher (Postdoctoral Fellow) 
 : Apr. 2021 – May 2021 
