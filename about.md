@@ -38,16 +38,16 @@ Senior Research Engineer
 
 Postdoctoral Researcher
 : Aug. 2021 – Aug. 2024
-: <a href="{{ site.nav_ex.ESL }}" target="_blank">Energy Systems Laboratory</a>, Pohang University of Science and Technology (<a href="{{ site.nav_ex.POSTECH }}" target="_blank"><b>POSTECH</b></a>), Department of Electrical Engineering, Pohang, Republic of Korea
+: <a href="{{ site.nav_ex.ESL }}" target="_blank">Energy Systems Laboratory</a>, Pohang University of Science and Technology (<a href="{{ site.nav_ex.POSTECH }}" target="_blank">POSTECH</a>), Department of Electrical Engineering, Pohang, Republic of Korea
 
 Program-Specific Researcher (Postdoctoral Fellow) 
 : Apr. 2021 – May 2021 
-: Laboratory of Advanced Electrical Systems Theory Department of Electrical Engineering, Kyoto University, Kyoto, Japan
+: <a href="{{ site.nav_ex.Hikihara_LAB }}" target="_blank">Laboratory of Advanced Electrical Systems Theory</a>, Department of Electrical Engineering, Kyoto University, Kyoto, Japan
 > As a researcher in the laboratory, I worked on writing programs for network simulation and publishing journals.
 
 System Engineer (ML, Computer Vision) 
 : Jan. 24, 2020 – Dec. 31, 2020 
-: Rutilea, Kyoto, Japan
+: <a href="{{ site.nav_ex.Rutilea }}" target="_blank">Rutilea</a>, Kyoto, Japan
 > As a system engineer, I worked for the processing of computer vision based on Python OpenCV. Prominent works such as a planar matching and 3d back projection were provided in this period.
 
 Internship System Engineer (Web) 
