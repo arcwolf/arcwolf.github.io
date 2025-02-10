@@ -27,6 +27,9 @@ title: About
 Personal
 : 7whitedays(at)gmail(dot)com
 
+Workplace
+: TBA
+
 Academic
 : s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
 
@@ -34,7 +37,7 @@ Academic
 ### WORK EXPERIENCE
 Senior Research Engineer
 : Feb. 2025 – Present
-: <a href="{{ site.nav_ex.LGE_ES }}" target="_blank"><b>Division of Eco Solution</b></a>, <a href="{{ site.nav_ex.LGE }}" target="_blank"><b>LG Electronics</b></a>, Changwon, Republic of Korea
+: <a href="{{ site.nav_ex.LGE_ES }}" target="_blank">Division of Eco Solution</a>, <a href="{{ site.nav_ex.LGE }}" target="_blank">LG Electronics</a>, Changwon, Republic of Korea
 
 Postdoctoral Researcher
 : Aug. 2021 – Aug. 2024
