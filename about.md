@@ -36,7 +36,7 @@ Academic
 ---
 ### WORK EXPERIENCE
 Senior Research Engineer
-: Feb. 2025 – Present
+: Mar. 2025 – Present
 : <a href="{{ site.nav_ex.LGE_ES }}" target="_blank">Division of Eco Solution</a>, <a href="{{ site.nav_ex.LGE }}" target="_blank">LG Electronics</a>, Changwon, Republic of Korea
 
 Postdoctoral Researcher
