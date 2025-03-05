@@ -28,7 +28,7 @@ Personal
 : 7whitedays(at)gmail(dot)com
 
 Workplace
-: TBA
+: s2ng.baek(at)lge(dot)com
 
 Academic
 : s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
