@@ -45,8 +45,8 @@ nav:
     - '/'
   About:
     - '/about/'
-  Project:
-    - '/project/'
+  # Project:
+  #   - '/project/'
   # Blog:           
   #   - '/blog/'
   #   - { Categories: '/blog/categories/' }
