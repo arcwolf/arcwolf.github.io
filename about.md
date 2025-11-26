@@ -188,8 +188,8 @@ Data Analysis
 ---
 ### LANGUAGES
 English
-: High-Intermediate, scored 83 in TOEFL iBT (Jan. 2021) 
 : High-Intermediate, scored 140 (Level 7) in TOEIC Speaking (Nov. 2025)
+: High-Intermediate, scored 83 in TOEFL iBT (Jan. 2021) 
 
 Japanese
 : Proficient, certified with N1 in JLPT (Dec. 2015)
