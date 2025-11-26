@@ -34,7 +34,7 @@ Academic
 : s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
 
 ---
-### WORK EXPERIENCE
+### WORK EXPERIENCES
 Senior Research Engineer
 : Mar. 2025 – Present
 : <a href="{{ site.nav_ex.LGE_ES }}" target="_blank">Division of Eco Solution</a>, <a href="{{ site.nav_ex.LGE }}" target="_blank">LG Electronics</a>, Changwon, Republic of Korea
@@ -60,7 +60,7 @@ Internship System Engineer (Web)
 
 
 ---
-### EDUCATION
+### EDUCATIONS
 PhD
 : Kyoto University, Department of Electrical Engineering
 - *Dissertation*: “<a href="{{ site.nav_ex.paper_phd }}" target="_blank">Dynamical Analysis and Decentralized Control of Power Packet Network</a>”
@@ -138,7 +138,7 @@ Other Conference Proceedings and Presentations
 : [11] **S. Baek**, Y. Susuki, Y. Ota, and T. Hikihara, “Analysis of Distribution Voltage Profile by ODE Model Incorporated with Power Demand/Supply Data,” in *Proc. 60th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 156-2, Kyoto, Japan, 2016, (in Japanese).
 
 ---
-### TEACHING EXPERIENCE
+### TEACHING EXPERIENCES
 **Kyoto University**, Kyoto, Japan 
 : Winter Semester, Q1 2019 
 : **Teaching Assistant**, Department of Electrical Engineering
@@ -171,7 +171,7 @@ Student Member
 : Institute of Systems, Control and. Information Engineers (ISCIE)
 
 ---
-### COMMUNITY SERVICE
+### COMMUNITY SERVICES
 Association President
 : Apr. 2016 – Mar. 2017
 : Kyoto University Korean Student Association
@@ -181,7 +181,7 @@ PR
 : Kansai Korean International Student Association (KKIA)
 
 ---
-### CERTIFICATE
+### CERTIFICATES
 Data Analysis
 : ADsP (Advanced Data Analytics Semi-Professional), Sep. 5, 2025
 
