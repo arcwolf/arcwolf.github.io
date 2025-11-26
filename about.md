@@ -181,9 +181,15 @@ PR
 : Kansai Korean International Student Association (KKIA)
 
 ---
+### CERTIFICATE
+Data Analysis
+: ADsP (Advanced Data Analytics Semi-Professional), Sep. 5, 2025
+
+---
 ### LANGUAGES
 English
 : High-Intermediate, scored 83 in TOEFL iBT (Jan. 2021) 
+: High-Intermediate, scored 140 (Level 7) in TOEIC Speaking (Nov. 2025)
 
 Japanese
 : Proficient, certified with N1 in JLPT (Dec. 2015)
