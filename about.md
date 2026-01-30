@@ -192,6 +192,7 @@ English
 : High-Intermediate, scored 83 in TOEFL iBT (Jan. 2021) 
 
 Japanese
+: Proficient, certified with N1 in JLPT (Dec. 2025)
 : Proficient, certified with N1 in JLPT (Dec. 2015)
 
 ---
