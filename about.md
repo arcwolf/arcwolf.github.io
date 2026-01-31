@@ -188,12 +188,13 @@ Data Analysis
 ---
 ### LANGUAGES
 English
-: High-Intermediate, scored 140 (Level 7) in TOEIC Speaking (Nov. 2025)
-: High-Intermediate, scored 83 in TOEFL iBT (Jan. 2021) 
+: Proficient in Oral Communication (Level 7) – TOEIC Speaking: 140 (Nov. 2025)
+: Upper-Intermediate (CEFR B2) – TOEFL iBT: 83 (Jan. 2021)
+
 
 Japanese
-: Proficient, certified with N1 (CEFR Level B2) in JLPT (Jan. 2026)
-: Proficient, certified with N1 in JLPT (Dec. 2015)
+: Proficient - JLPT: N1, CEFR B2 (Jan. 2026)
+: Proficient - JLPT: N1 (Dec. 2015)
 
 ---
 ### COMPUTER SKILLS
