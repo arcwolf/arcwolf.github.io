@@ -188,17 +188,15 @@ Data Analysis
 ---
 ### LANGUAGES
 English
-: Nov. 2025
-: Advanced Low (Level 7) - TOEIC Speaking: 140
-: Jan. 2021
-: Upper-Intermediate (CEFR B2) - TOEFL iBT: 83
- 
+: **Professional Working Proficiency**
+- Advanced Low (Level 7) in TOEIC Speaking 140/200, Nov., 2025
+- Upper-Intermediate (CEFR B2) in TOEFL iBT 83/120, Jan., 2021
+
 
 Japanese
-: Jan. 2026
-: Proficient - JLPT: N1, CEFR B2
-: Dec. 2015
-: Proficient - JLPT: N1
+: **Native/Full Professional Proficiency**
+: Proficient in JLPT N1 (CEFR B2), Jan., 2026
+: Proficient in JLPT N1, Dec., 2015
 
 ---
 ### COMPUTER SKILLS
