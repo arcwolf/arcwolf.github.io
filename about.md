@@ -110,9 +110,8 @@ Korea-Japan Joint Government Scholarship Program
 
 ---
 ### PUBLICATIONS
-Journal Publications
-1. [1] **S. Baek**, S. Hahm, Y. -J. Kim, and J. P. S. Catalão, “[Security-constrained P2P Energy Trading Strategy via Priced-based Regularization of ADMM in a Distribution Network](https://ieeexplore.ieee.org/document/10720016),” *IEEE Access*, vol. 12, pp. 152972–152988, 2024. doi:10.1109/ACCESS.2024.348150
-<details>
+## Journal Publications
+1. [1] **S. Baek**, S. Hahm, Y. -J. Kim, and J. P. S. Catalão, “[Security-constrained P2P Energy Trading Strategy via Priced-based Regularization of ADMM in a Distribution Network](https://ieeexplore.ieee.org/document/10720016),” *IEEE Access*, vol. 12, pp. 152972–152988, 2024. doi:10.1109/ACCESS.2024.348150 <details>
 <summary>View Figures</summary>
 <figure>
     <img src="{{ site.baseurl }}{{ site.figs.ieeeaccess2024_1 }}" />
