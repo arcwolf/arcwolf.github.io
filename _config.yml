@@ -106,6 +106,10 @@ arcwolf:
 figs:
   ieeeaccess2024_1: /public/img/Fig+IEEE_Access+Security-constrained_P2P_Energy_Trading+Overall_Schematic_Diagram.png
   ieeeaccess2024_2: /public/img/Fig+IEEE_Access+Security-constrained_P2P_Energy_Trading+Casestudy3.svg
+  nolta2021_1: /public/img/Fig+Nolta+Decentralized_algorithms_for_consensus-based_power_packet_distribution+Overall_Concept.svg
+  nolta2021_2: /public/img/Fig+Nolta+Decentralized_algorithms_for_consensus-based_power_packet_distribution+multirouting_bu_td_v20201023.svg
+  aipchaos2019_1: /public/img/Fig+AIPChaos+Consensus-based_distribution_of_power_packets_and_decentralized_control_for_routing+Ring_Network.svg
+  aipchaos2019_2: /public/img/Fig+AIPChaos+Consensus-based_distribution_of_power_packets_and_decentralized_control_for_routing+Ring_Network_unbiased_n_biased_result4.svg
 
 # Puglins
 mathjax: true # whether support mathjax

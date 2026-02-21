@@ -66,22 +66,22 @@ Academic ◆  s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
 2021.03.23
 : **PhD in Electrical Engineering**
 : --- Kyoto University, Department of Electrical Engineering
-> [Lab] ◆ Laboratory of Advanced Electrical Systems Theory <br>
-[Dissertation] ◆ “<a href="{{ site.nav_ex.paper_phd }}" target="_blank">Dynamical Analysis and Decentralized Control of Power Packet Network</a>” <br>
-[Commitee] ◆ Prof. Takashi Hikihara (chair), Prof. Shinji Doi, and Prof. Ken Umeno
+> Lab ◆ Laboratory of Advanced Electrical Systems Theory <br>
+Dissertation ◆ “<a href="{{ site.nav_ex.paper_phd }}" target="_blank">Dynamical Analysis and Decentralized Control of Power Packet Network</a>” <br>
+Commitee ◆ Prof. Takashi Hikihara (chair), Prof. Shinji Doi, and Prof. Ken Umeno
 
 2018.03.26
 : **Master Degree in Electrical Engineering**
 : --- Kyoto University, Department of Electrical Engineering
-> [Lab] ◆ Laboratory of Advanced Electrical Systems Theory <br>
-[Thesis] ◆ “Model of Distributed Control and Analysis of Power Transmission on Power Packet Distribution Network” <br>
-[Supervisor] ◆ Prof. Takashi Hikihara
+> Lab ◆ Laboratory of Advanced Electrical Systems Theory <br>
+Thesis ◆ “Model of Distributed Control and Analysis of Power Transmission on Power Packet Distribution Network” <br>
+Supervisor ◆ Prof. Takashi Hikihara
 
 2016.03.24
 : **Bachelor Degree in Electrical and Electronic Engineering**
 : --- Kyoto University, Electrical and Electronic Engineering
-> [Thesis] ◆  “A Study on Modeling of Distribution Voltage Profile Using Data on Power Supply-Demand Density” <br>
-[Supervisor] ◆ Prof. Takashi Hikihara
+> Thesis ◆  “A Study on Modeling of Distribution Voltage Profile Using Data on Power Supply-Demand Density” <br>
+Supervisor ◆ Prof. Takashi Hikihara
 
 
 
@@ -120,13 +120,24 @@ Academic ◆  s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
 > <img src="{{ site.baseurl }}{{ site.figs.ieeeaccess2024_1 }}" />
 Fig.1. Overall schematic diagram of the proposed security-constrained P2P energy trading strategy.
 <img src="{{ site.baseurl }}{{ site.figs.ieeeaccess2024_2 }}" />
-Fig.8. Optimal bidding energies and prices with complete regularization by the DSO and consideration of bilat-eral trading weights and resulting network profiles on the IEEE 33-node test system: (a) trading energy, (b) energy price biddings between sellers and buyers, (c) selling prices, (d) buying prices, (e) bus voltages, and (f) power flow in branches.
+Fig.8. Optimal bidding energies and prices with complete regularization by the DSO and consideration of bilateral trading weights and resulting network profiles on the IEEE 33-node test system: (a) trading energy, (b) energy price biddings between sellers and buyers, (c) selling prices, (d) buying prices, (e) bus voltages, and (f) power flow in branches.
 
 2021.04.01
 : **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “<a href="https://doi.org/10.1587/nolta.12.181" target="_blank" rel="noopener noreferrer">Decentralized Algorithms for Consensus-Based Power Packet Distribution</a>,” *Nonlinear Theory and Its Applications, IEICE*, vol. 12, no. 2, pp. 181–193, 2021. doi:10.1587/nolta.12.181
+> <img src="{{ site.baseurl }}{{ site.figs.nolta2021_1 }}" />
+Fig.1. Layout of a power packet network (PPN). Using the store-and-forward method, the power routers deliver the power packets from the supply side to the demand side.
+<img src="{{ site.baseurl }}{{ site.figs.nolta2021_2 }}" />
+Fig.4. Decentralized algorithms of the (a) bottom-up method and (b) topdown method for a power router. The algorithm is divided into three loops: termination of packet transmission, packet forwarding, and packet storing. The bottom-up method and top-down method employ the different loops of packet forwarding and packet storing, according to each of the communication logics. Here, the parentheses () indicate the transition conditions, and the superscript-($$'$$) denotes the updated values when transitioned.
 
 2020.03.05
 : **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “<a href="https://doi.org/10.1063/1.5134735" target="_blank" rel="noopener noreferrer">Consensus-Based Distribution of Power Packets and Decentralized Control for Routing</a>,” *AIP chaos: An Interdisciplinary Journal of Nonlinear Science*, vol. 30, no. 3, pp. 033115, 2020. doi:10.1063/1.5134735
+> $${x}(K+1) = {P}{x}(K) - D{\epsilon}(K) + [I(K), 0, \dots, 0]^{\rm T}$$ <br>
+Eq.2. Bio-Inspired voltage dynamics of storage nodes $$x$$. 
+> <img src="{{ site.baseurl }}{{ site.figs.aipchaos2019_1 }}" style="width: 60%;" />
+Fig.2. Packet distribution on ring network. Nodes from 0 to 20 indicate power routers, and the packet transmission on each path between routers is bidirectional.
+<img src="{{ site.baseurl }}{{ site.figs.aipchaos2019_2 }}" style="width: 80%;" />
+Fig.3. Variation of node voltages over time. Intermittent bursts in node 1 occur because electric charges are supplied when the voltage level $$x_1$$ drops below $$x_{th}$$.
+
 
 
 ### in PREPARATION
