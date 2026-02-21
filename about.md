@@ -35,7 +35,7 @@ Academic
 
 ---
 ### WORK EXPERIENCES
-Senior Research Engineer
+Senior Research Engineer (R&D/SW Application, Embedded System) 
 : Mar. 2025 – Present
 : <a href="{{ site.nav_ex.LGE_ES }}" target="_blank">Division of Eco Solution</a>, <a href="{{ site.nav_ex.LGE }}" target="_blank">LG Electronics</a>, Changwon, Republic of Korea
 
@@ -46,7 +46,7 @@ Postdoctoral Researcher
 Program-Specific Researcher (Postdoctoral Fellow) 
 : Apr. 2021 – May 2021 
 : <a href="{{ site.nav_ex.Hikihara_LAB }}" target="_blank">Laboratory of Advanced Electrical Systems Theory</a>, Department of Electrical Engineering, Kyoto University, Kyoto, Japan
-> As a researcher in the laboratory, I worked on writing programs for network simulation and publishing journals.
+<!-- > As a researcher in the laboratory, I worked on writing programs for network simulation and publishing journals. -->
 
 System Engineer (R&D/ML, Computer Vision) 
 : Jan. 24, 2020 – Dec. 31, 2020 
@@ -112,14 +112,10 @@ Korea-Japan Joint Government Scholarship Program
 ### PUBLICATIONS
 Journal Publications
 : [1] **S. Baek**, S. Hahm, Y. -J. Kim, and J. P. S. Catalão, “[Security-constrained P2P Energy Trading Strategy via Priced-based Regularization of ADMM in a Distribution Network](https://ieeexplore.ieee.org/document/10720016),” *IEEE Access*, vol. 12, pp. 152972–152988, 2024. doi:10.1109/ACCESS.2024.348150
-> <figure>
-    <img src="{{ site.baseurl }}{{ site.figs.ieeeaccess2024_1 }}" />
-    <figcaption>Fig.1. Overall schematic diagram of the proposed security-constrained P2P energy trading strategy.</figcaption>
-</figure>
-<figure>
-    <img src="{{ site.baseurl }}{{ site.figs.ieeeaccess2024_2 }}" />
-    <figcaption>Fig.8. Optimal bidding energies and prices with complete regularization by the DSO and consideration of bilat-eral trading weights and resulting network profiles on the IEEE 33-node test system: (a) trading energy, (b) energy price biddings between sellers and buyers, (c) selling prices, (d) buying prices, (e) bus voltages, and (f) power flow in branches.</figcaption>
-</figure>
+> <img src="{{ site.baseurl }}{{ site.figs.ieeeaccess2024_1 }}" />
+  <figcaption>Fig.1. Overall schematic diagram of the proposed security-constrained P2P energy trading strategy.</figcaption>
+  <img src="{{ site.baseurl }}{{ site.figs.ieeeaccess2024_2 }}" />
+  <figcaption>Fig.8. Optimal bidding energies and prices with complete regularization by the DSO and consideration of bilat-eral trading weights and resulting network profiles on the IEEE 33-node test system: (a) trading energy, (b) energy price biddings between sellers and buyers, (c) selling prices, (d) buying prices, (e) bus voltages, and (f) power flow in branches.</figcaption>
 : [2] **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “[Decentralized Algorithms for Consensus-Based Power Packet Distribution](https://doi.org/10.1587/nolta.12.181),” *Nonlinear Theory and Its Applications, IEICE*, vol. 12, no. 2, pp. 181–193, 2021. doi:10.1587/nolta.12.181
 : [3] **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “[Consensus-Based Distribution of Power Packets and Decentralized Control for Routing](https://doi.org/10.1063/1.5134735),” *AIP chaos: An Interdisciplinary Journal of Nonlinear Science*, vol. 30, no. 3, pp. 033115, 2020. doi:10.1063/1.5134735
 
