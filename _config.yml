@@ -101,6 +101,10 @@ arcwolf:
   caption: At my place of Busan, South Korea, in January 22, 2025.
   # caption: At my workplace of Pohang, South Korea in July 20, 2022.
 
+figs:
+  ieeeaccess2024_1: /public/img/#Fig#IEEE_Access#Security-constrained_P2P_Energy_Trading#Overall_Schematic_Diagram.png
+  ieeeaccess2024_2: /public/img/#Fig#IEEE_Access#Security-constrained_P2P_Energy_Trading#Casestudy3.svg
+
 # Puglins
 mathjax: true # whether support mathjax
 # google_analytics_token: 'ya29.c.Kp4BBQiiUKl001PKf3vnZkJqZ9D3HPQXKV0BEUpEmZ5bhvcM-LfAHgH_lcJ7tA02SJ68-BnlQovtYlQxv4vTjlfRshNnQOFQ7dBP2tmS7C5Hp08OAeprfCjm1NYgOJ9lcO0_UUbUGMMO9NSFnVdjOKrGhgDD4hkBjfspT7OySDypWnZcIQ9egvU7lT_FbvM5FV8YLkuUYy1S4noqEB0ZdUc' # leave blank if you don't want google analytics
