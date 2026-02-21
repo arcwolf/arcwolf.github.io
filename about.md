@@ -44,11 +44,11 @@ Academic ◆  s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
 
 2021.08.02 – 2024.08.05
 : **Postdoctoral Researcher**
-> <a href="{{ site.nav_ex.ESL }}" target="_blank">Energy Systems Laboratory</a>, Pohang University of Science and Technology (<a href="{{ site.nav_ex.POSTECH }}" target="_blank">POSTECH</a>), Department of Electrical Engineering, Pohang, Republic of Korea
+> <a href="{{ site.nav_ex.ESL }}" target="_blank">Energy Systems Laboratory</a>, Department of Electrical Engineering, Pohang University of Science and Technology (<a href="{{ site.nav_ex.POSTECH }}" target="_blank">POSTECH</a>), Pohang, Republic of Korea
 
 2021.04.01 – 2021.05.31
 : **Program-Specific Researcher** (Postdoctoral Fellow) 
-> <a href="{{ site.nav_ex.Hikihara_LAB }}" target="_blank">Laboratory of Advanced Electrical Systems Theory</a>, Department of Electrical Engineering, Kyoto University, Kyoto, Japan
+> <a href="{{ site.nav_ex.Hikihara_LAB }}" target="_blank">Laboratory of Advanced Electrical Systems Theory</a>, Department of Electrical Engineering, <a href="https://www.kyoto-u.ac.jp/en" target="_blank">Kyoto University</a>, Kyoto, Japan
 <!-- > As a researcher in the laboratory, I worked on writing programs for network simulation and publishing journals. -->
 
 2020.01.24 – 2020.12.31 
@@ -147,47 +147,47 @@ TBD
 
 ### PEER-REVIEWED INTERNATIONAL CONFERENCE PROCEEDINGS
 2019.12.02 - 2019.12.06
-: **S. Baek**, H. Ando, and T. Hikihara, “Power Packet Distribution Problem on Switching Topology with Demanding Nodes through Consensus-Based Approach,” in *Proceedings of NOLTA’19*, no. 3PM-2D1, pp. 177–178, (IEICE, Kuala Lumpur, Malaysia, 2019).
+: **S. Baek**, H. Ando, and T. Hikihara, “<a href="https://www.ieice.org/nolta/symposium/archive/2019/HP/index.html" target="_blank" rel="noopener noreferrer">Power Packet Distribution Problem on Switching Topology with Demanding Nodes through Consensus-Based Approach</a>,” in *Proceedings of NOLTA’19*, no. 3PM-2D1, pp. 177–178, (IEICE, Kuala Lumpur, Malaysia, 2019).
 
 2019.01.06 - 2019.01.09
-: **S. Baek**, and H. Ando, and T. Hikihara, “Consensus-Based Distributed Control of Power Packet Distribution Network,” in *Proceedings of JKCCS’19*, no. A-4, pp. 8– 11, (IEICE, Pyeongchang, Korea, 2019).
+: **S. Baek**, and H. Ando, and T. Hikihara, “<a href="https://www.ieice.org/nolta/conferences/kjccs_jkccs/" target="_blank" rel="noopener noreferrer">Consensus-Based Distributed Control of Power Packet Distribution Network</a>,” in *Proceedings of JKCCS’19*, no. A-4, pp. 8– 11, (IEICE, Pyeongchang, Korea, 2019).
 
 2018.09.02 - 2018.09.06
-: **S. Baek**, H. Ando, and T. Hikihara, “Automata Modeling on Power Packet Distribution Network for Power Flow Analysis,” in *Proceedings of NOLTA’18*, no. C1L-A3, pp. 464-467, (IEICE, Tarragona, Spain, 2018).
+: **S. Baek**, H. Ando, and T. Hikihara, “<a href="https://www.ieice.org/nolta/symposium/archive/2018/articles/5149.pdf" target="_blank" rel="noopener noreferrer">Automata Modeling on Power Packet Distribution Network for Power Flow Analysis</a>,” in *Proceedings of NOLTA’18*, no. C1L-A3, pp. 464-467, (IEICE, Tarragona, Spain, 2018).
 
 ### OTHER CONFERENCE PROCEEDINGS AND PRESENTATIONS
 2024.01
-: **S. Baek**, and Y. -J. Kim, “Heat Pump : Grid Flexible Resource 'P2H',” *KIEE Magazine*, vol. 73, no. 1, pp. 32-37, Jan. 2024, (in Korean).
+: **S. Baek**, and Y. -J. Kim, “<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11659291" target="_blank" rel="noopener noreferrer">Heat Pump : Grid Flexible Resource 'P2H'</a>,” *KIEE Magazine*, vol. 73, no. 1, pp. 32-37, Jan. 2024, (in Korean).
 
 2023.07.12 - 2023.07.15
-: **S. Baek**, and Y. -J. Kim, “ADMM-Based P2P Energy Trading Strategy for Prosumer Benefits and System Reliability in Distribution System,” in *Proc. KIEE Conference*, pp. 856-857, Pyeongchang, Republic of Korea, 2023, (in Korean).
+: **S. Baek**, and Y. -J. Kim, “<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11512390" target="_blank" rel="noopener noreferrer">ADMM-Based P2P Energy Trading Strategy for Prosumer Benefits and System Reliability in Distribution System</a>,” in *Proc. KIEE Conference*, pp. 856-857, Pyeongchang, Republic of Korea, 2023, (in Korean).
 
 2022.07.13 - 2022.07.16
-: **S. Baek**, N. -Y. Kim, S. -W. Yim, and S. -D. Yu, S. -W. Hwang, H. Lee., and Y. -J. Kim, “Optimal Planning and Economic Analysis of Microgrid Based on Energy Self-Sufficiency Rate,” in *Proc. KIEE Conference*, pp. 9-11, Gwangju, Republic of Korea, 2022, (in Korean).
+: **S. Baek**, N. -Y. Kim, S. -W. Yim, and S. -D. Yu, S. -W. Hwang, H. Lee., and Y. -J. Kim, “<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11398049" target="_blank" rel="noopener noreferrer">Optimal Planning and Economic Analysis of Microgrid Based on Energy Self-Sufficiency Rate</a>,” in *Proc. KIEE Conference*, pp. 9-11, Gwangju, Republic of Korea, 2022, (in Korean).
 
 2019.03.19 - 2019.03.22
-: Y. Sangenya, **S. Baek**, and T. Hikihara, “Structure Dependence of Power Output on Power Packet Distribution Network,” in *Proc. 2019 IEICE General Conference*, vol. N-2-8, p. 292, Tokyo, Japan, 2019, (in Japanese).
+: Y. Sangenya, **S. Baek**, and T. Hikihara, “<a href="https://www.ieice.org/jpn/event/program/2019G/_html/nolta.html#n_2" target="_blank" rel="noopener noreferrer">Structure Dependence of Power Output on Power Packet Distribution Network</a>,” in *Proc. 2019 IEICE General Conference*, vol. N-2-8, p. 292, Tokyo, Japan, 2019, (in Japanese).
 
-2018.06.01
-: **S. Baek**, H. Ando, and T. Hikihara, “A Study on Distributed Control of Power Packet Distribution Network based on Consensus Model,” in *IEICE Technical Report, Nonlinear Problems*, vol. 118, no. 76, CCS2018-1, pp. 1–5, 2018, (in Japanese).
+2018.06.08
+: **S. Baek**, H. Ando, and T. Hikihara, “<a href="https://www.ieice.org/publications/ken/summary.php?contribution_id=95702&society_cd=CS&ken_id=CS&year=2018&presen_date=2018-06-08&schedule_id=6066&lang=en&expandable=1" target="_blank" rel="noopener noreferrer">A Study on Distributed Control of Power Packet Distribution Network based on Consensus Model</a>,” in *IEICE Technical Report, Nonlinear Problems*, vol. 118, no. 76, CCS2018-1, pp. 1–5, 2018, (in Japanese).
 
 2018.05.16 - 2018.05.18
-: **S. Baek**, H. Ando, and T. Hikihara, “A Study on Decentralized Operations of Power Routers with Consensus in Power Packet Distribution Network,” in *Proc. 62th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 212-5, Kyoto, Japan, 2018, (in Japanese).
+: **S. Baek**, H. Ando, and T. Hikihara, “<a href="https://sci18.iscie.or.jp/confprog/#/talks/" target="_blank" rel="noopener noreferrer">A Study on Decentralized Operations of Power Routers with Consensus in Power Packet Distribution Network</a>,” in *Proc. 62th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 212-5, Kyoto, Japan, 2018, (in Japanese).
 
 2018.03.20 - 2018.03.23
-: S. Katayama, **S. Baek**, and T. Hikihara, “A Numerical Study of Power Line Usage for Energy on Demand Control by Power Packet,” in *Proc. 2018 IEICE General Conference*, vol. N-2-1, p. 252, Tokyo, Japan, 2018, (in Japanese).
+: S. Katayama, **S. Baek**, and T. Hikihara, “<a href="https://www.ieice.org/jpn/event/program/2018G/Settings/html/print/nolta.pdf" target="_blank" rel="noopener noreferrer">A Numerical Study of Power Line Usage for Energy on Demand Control by Power Packet</a>,” in *Proc. 2018 IEICE General Conference*, vol. N-2-1, p. 252, Tokyo, Japan, 2018, (in Japanese).
 
 2017.05.23 - 2017.05.25
-: **S. Baek**, and T. Hikihara, “Evaluation for Transmission of Power and Information Tag by Power Packet in Multi-stage Power-router,” in *Proc. 61th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 133-5, Kyoto, Japan, 2017, (in Japanese).
+: **S. Baek**, and T. Hikihara, “<a href="https://sci17.iscie.or.jp/confprog/#/talks" target="_blank" rel="noopener noreferrer">Evaluation for Transmission of Power and Information Tag by Power Packet in Multi-stage Power-router</a>,” in *Proc. 61th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 133-5, Kyoto, Japan, 2017, (in Japanese).
 
 2017.03.22 - 2017.03.25
-: **S. Baek**, and T. Hikihara, “Evaluation for Transmission of Power and Information Tag by Regulating Payload of Power Packet,” in *Proc. 2017 IEICE General Conference*, vol. NBS-1-2, p. S–52, Nagoya, Japan, 2017, (in Japanese).
+: **S. Baek**, and T. Hikihara, “<a href="https://www.ieice.org/jpn/event/program/2017G/Settings/html/print/nolta.pdf" target="_blank" rel="noopener noreferrer">Evaluation for Transmission of Power and Information Tag by Regulating Payload of Power Packet</a>,” in *Proc. 2017 IEICE General Conference*, vol. NBS-1-2, p. S–52, Nagoya, Japan, 2017, (in Japanese).
 
 2016.01
-: Y. Susuki, **S. Baek**, Ota Y, and T. Hikihara, “Computer Simulation of Distribution Voltage Profile Using a Nonlinear ODE,” in *IEICE Technical Report, Nonlinear Problems*, vol. 116, no. 215, pp. 15–20, 2016, (in Japanese).
+: Y. Susuki, **S. Baek**, Ota Y, and T. Hikihara, “<a href="https://ken.ieice.org/ken/paper/20160914kbkU/eng/" target="_blank" rel="noopener noreferrer">Computer Simulation of Distribution Voltage Profile Using a Nonlinear ODE</a>,” in *IEICE Technical Report, Nonlinear Problems*, vol. 116, no. 215, pp. 15–20, 2016, (in Japanese).
 
 2016.05.25 - 2016.05.27
-: **S. Baek**, Y. Susuki, Y. Ota, and T. Hikihara, “Analysis of Distribution Voltage Profile by ODE Model Incorporated with Power Demand/Supply Data,” in *Proc. 60th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 156-2, Kyoto, Japan, 2016, (in Japanese).
+: **S. Baek**, Y. Susuki, Y. Ota, and T. Hikihara, “<a href="https://sci16.iscie.or.jp/confprog/#/talks" target="_blank" rel="noopener noreferrer">Analysis of Distribution Voltage Profile by ODE Model Incorporated with Power Demand/Supply Data</a>,” in *Proc. 60th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 156-2, Kyoto, Japan, 2016, (in Japanese).
 
 
 ### TEACHING EXPERIENCES
