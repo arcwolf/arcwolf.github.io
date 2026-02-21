@@ -123,6 +123,17 @@ Journal Publications
     <figcaption>Fig.8. Optimal bidding energies and prices with complete regularization by the DSO and consideration of bilat-eral trading weights and resulting network profiles on the IEEE 33-node test system: (a) trading energy, (b) energy price biddings between sellers and buyers, (c) selling prices, (d) buying prices, (e) bus voltages, and (f) power flow in branches.</figcaption>
 </figure>
 </details>
+
+<dialog open>
+  <p>
+    <figure>
+    <img src="{{ site.baseurl }}{{ site.figs.ieeeaccess2024_2 }}" />
+    <figcaption>Fig.8. Optimal bidding energies and prices with complete regularization by the DSO and consideration of bilat-eral trading weights and resulting network profiles on the IEEE 33-node test system: (a) trading energy, (b) energy price biddings between sellers and buyers, (c) selling prices, (d) buying prices, (e) bus voltages, and (f) power flow in branches.</figcaption>
+</figure>
+  </p>
+  <button>닫기</button>
+</dialog>
+
 [2] **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “[Decentralized Algorithms for Consensus-Based Power Packet Distribution](https://doi.org/10.1587/nolta.12.181),” *Nonlinear Theory and Its Applications, IEICE*, vol. 12, no. 2, pp. 181–193, 2021. doi:10.1587/nolta.12.181
 [3] **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “[Consensus-Based Distribution of Power Packets and Decentralized Control for Routing](https://doi.org/10.1063/1.5134735),” *AIP chaos: An Interdisciplinary Journal of Nonlinear Science*, vol. 30, no. 3, pp. 033115, 2020. doi:10.1063/1.5134735
 
