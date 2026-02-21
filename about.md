@@ -111,7 +111,7 @@ Korea-Japan Joint Government Scholarship Program
 ---
 ### PUBLICATIONS
 Journal Publications
-[1] **S. Baek**, S. Hahm, Y. -J. Kim, and J. P. S. Catalão, “[Security-constrained P2P Energy Trading Strategy via Priced-based Regularization of ADMM in a Distribution Network](https://ieeexplore.ieee.org/document/10720016),” *IEEE Access*, vol. 12, pp. 152972–152988, 2024. doi:10.1109/ACCESS.2024.348150
+1. [1] **S. Baek**, S. Hahm, Y. -J. Kim, and J. P. S. Catalão, “[Security-constrained P2P Energy Trading Strategy via Priced-based Regularization of ADMM in a Distribution Network](https://ieeexplore.ieee.org/document/10720016),” *IEEE Access*, vol. 12, pp. 152972–152988, 2024. doi:10.1109/ACCESS.2024.348150
 <details>
 <summary>View Figures</summary>
 <figure>
@@ -123,19 +123,8 @@ Journal Publications
     <figcaption>Fig.8. Optimal bidding energies and prices with complete regularization by the DSO and consideration of bilat-eral trading weights and resulting network profiles on the IEEE 33-node test system: (a) trading energy, (b) energy price biddings between sellers and buyers, (c) selling prices, (d) buying prices, (e) bus voltages, and (f) power flow in branches.</figcaption>
 </figure>
 </details>
-
-<dialog open>
-  <p>
-    <figure>
-    <img src="{{ site.baseurl }}{{ site.figs.ieeeaccess2024_2 }}" />
-    <figcaption>Fig.8. Optimal bidding energies and prices with complete regularization by the DSO and consideration of bilat-eral trading weights and resulting network profiles on the IEEE 33-node test system: (a) trading energy, (b) energy price biddings between sellers and buyers, (c) selling prices, (d) buying prices, (e) bus voltages, and (f) power flow in branches.</figcaption>
-</figure>
-  </p>
-  <button>닫기</button>
-</dialog>
-
-[2] **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “[Decentralized Algorithms for Consensus-Based Power Packet Distribution](https://doi.org/10.1587/nolta.12.181),” *Nonlinear Theory and Its Applications, IEICE*, vol. 12, no. 2, pp. 181–193, 2021. doi:10.1587/nolta.12.181
-[3] **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “[Consensus-Based Distribution of Power Packets and Decentralized Control for Routing](https://doi.org/10.1063/1.5134735),” *AIP chaos: An Interdisciplinary Journal of Nonlinear Science*, vol. 30, no. 3, pp. 033115, 2020. doi:10.1063/1.5134735
+1. [2] **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “[Decentralized Algorithms for Consensus-Based Power Packet Distribution](https://doi.org/10.1587/nolta.12.181),” *Nonlinear Theory and Its Applications, IEICE*, vol. 12, no. 2, pp. 181–193, 2021. doi:10.1587/nolta.12.181
+1. [3] **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “[Consensus-Based Distribution of Power Packets and Decentralized Control for Routing](https://doi.org/10.1063/1.5134735),” *AIP chaos: An Interdisciplinary Journal of Nonlinear Science*, vol. 30, no. 3, pp. 033115, 2020. doi:10.1063/1.5134735
 
 Journal Papers in Preparation
 : [1] S. Hahm, **S. Baek**, Y. -E. Jang, and Y. -J. Kim, “Virtual Battery Modeling of Multi-zone, Multi-building HVAC Systems for Demand Response,” (in preparation).
