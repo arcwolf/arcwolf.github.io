@@ -48,15 +48,15 @@ Program-Specific Researcher (Postdoctoral Fellow)
 : <a href="{{ site.nav_ex.Hikihara_LAB }}" target="_blank">Laboratory of Advanced Electrical Systems Theory</a>, Department of Electrical Engineering, Kyoto University, Kyoto, Japan
 > As a researcher in the laboratory, I worked on writing programs for network simulation and publishing journals.
 
-System Engineer (ML, Computer Vision) 
+System Engineer (R&D/ML, Computer Vision) 
 : Jan. 24, 2020 – Dec. 31, 2020 
 : <a href="{{ site.nav_ex.Rutilea }}" target="_blank">Rutilea</a>, Kyoto, Japan
-> As a system engineer, I worked for the processing of computer vision based on Python OpenCV. Prominent works such as a planar matching and 3d back projection were provided in this period.
+<!-- > As a system engineer, I worked for the processing of computer vision based on Python OpenCV. Prominent works such as a planar matching and 3d back projection were provided in this period. -->
 
-Internship System Engineer (Web) 
+Internship System Engineer (Web/Backend, Frontend) 
 : Apr. 1, 2018 – Nov. 25, 2019 
 : Kyoto Innovation, Kyoto, Japan
-> As a system engineer, I worked for the web development based on web service workframe and numerous web languages such as PHP, HTML, CSS, JavaScript, and SQL. During this period, I gained a wealth of experience in web development.
+<!-- > As a system engineer, I worked for the web development based on web service workframe and numerous web languages such as PHP, HTML, CSS, JavaScript, and SQL. During this period, I gained a wealth of experience in web development. -->
 
 
 ---
@@ -110,11 +110,9 @@ Korea-Japan Joint Government Scholarship Program
 
 ---
 ### PUBLICATIONS
-## Journal Publications
-01. [1] **S. Baek**, S. Hahm, Y. -J. Kim, and J. P. S. Catalão, “[Security-constrained P2P Energy Trading Strategy via Priced-based Regularization of ADMM in a Distribution Network](https://ieeexplore.ieee.org/document/10720016),” *IEEE Access*, vol. 12, pp. 152972–152988, 2024. doi:10.1109/ACCESS.2024.348150
-<!-- <details>
-<summary>View Figures</summary> -->
-<figure>
+Journal Publications
+: [1] **S. Baek**, S. Hahm, Y. -J. Kim, and J. P. S. Catalão, “[Security-constrained P2P Energy Trading Strategy via Priced-based Regularization of ADMM in a Distribution Network](https://ieeexplore.ieee.org/document/10720016),” *IEEE Access*, vol. 12, pp. 152972–152988, 2024. doi:10.1109/ACCESS.2024.348150
+> <figure>
     <img src="{{ site.baseurl }}{{ site.figs.ieeeaccess2024_1 }}" />
     <figcaption>Fig.1. Overall schematic diagram of the proposed security-constrained P2P energy trading strategy.</figcaption>
 </figure>
@@ -122,9 +120,8 @@ Korea-Japan Joint Government Scholarship Program
     <img src="{{ site.baseurl }}{{ site.figs.ieeeaccess2024_2 }}" />
     <figcaption>Fig.8. Optimal bidding energies and prices with complete regularization by the DSO and consideration of bilat-eral trading weights and resulting network profiles on the IEEE 33-node test system: (a) trading energy, (b) energy price biddings between sellers and buyers, (c) selling prices, (d) buying prices, (e) bus voltages, and (f) power flow in branches.</figcaption>
 </figure>
-<!-- </details> -->
-01. [2] **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “[Decentralized Algorithms for Consensus-Based Power Packet Distribution](https://doi.org/10.1587/nolta.12.181),” *Nonlinear Theory and Its Applications, IEICE*, vol. 12, no. 2, pp. 181–193, 2021. doi:10.1587/nolta.12.181
-01. [3] **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “[Consensus-Based Distribution of Power Packets and Decentralized Control for Routing](https://doi.org/10.1063/1.5134735),” *AIP chaos: An Interdisciplinary Journal of Nonlinear Science*, vol. 30, no. 3, pp. 033115, 2020. doi:10.1063/1.5134735
+: [2] **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “[Decentralized Algorithms for Consensus-Based Power Packet Distribution](https://doi.org/10.1587/nolta.12.181),” *Nonlinear Theory and Its Applications, IEICE*, vol. 12, no. 2, pp. 181–193, 2021. doi:10.1587/nolta.12.181
+: [3] **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “[Consensus-Based Distribution of Power Packets and Decentralized Control for Routing](https://doi.org/10.1063/1.5134735),” *AIP chaos: An Interdisciplinary Journal of Nonlinear Science*, vol. 30, no. 3, pp. 033115, 2020. doi:10.1063/1.5134735
 
 Journal Papers in Preparation
 : [1] S. Hahm, **S. Baek**, Y. -E. Jang, and Y. -J. Kim, “Virtual Battery Modeling of Multi-zone, Multi-building HVAC Systems for Demand Response,” (in preparation).
