@@ -261,7 +261,7 @@ Python, C, PHP, HTML, CSS, JavaScript, SQL, Java
 1. **Tools Fluency** <br> 
 Embedded System Coder, Linux System, MATLAB, MySQL, Ableton Live (Digital Audio Workstation)
 
-1. **What I Can** <br>
+1. **What I Build** <br>
 Scientific Analysis, Machine Learning (ML), Reinforcement Learning (RL), Parallel Computation, Numerical Simulation, Decentralization, Web Service, Mobile Application, Server, Database, Computer Vision, Automation
 
 
