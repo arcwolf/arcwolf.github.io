@@ -97,14 +97,13 @@ category_page: '/blog/categories/'
 #   caption: At Kamogawa river of Kyoto, Japan in May 19, 2015.
 
 arcwolf:
-  # image: /public/img/profile_main20250209.JPG
-  ieeeaccess2024_1: /public/img/FigIEEE_AccessSecurity-constrained_P2P_Energy_TradingOverall_Schematic_Diagram.png
+  image: /public/img/profile_main20250209.JPG
   caption: At my place of Busan, South Korea, in January 22, 2025.
   # caption: At my workplace of Pohang, South Korea in July 20, 2022.
 
 figs:
-  ieeeaccess2024_1: /public/img/#Fig#IEEE_Access#Security-constrained_P2P_Energy_Trading#Overall_Schematic_Diagram.png
-  ieeeaccess2024_2: /public/img/#Fig#IEEE_Access#Security-constrained_P2P_Energy_Trading#Casestudy3.svg
+  ieeeaccess2024_1: /public/img/Fig+IEEE_Access+Security-constrained_P2P_Energy_Trading+Overall_Schematic_Diagram.png
+  ieeeaccess2024_2: /public/img/Fig+IEEE_Access+Security-constrained_P2P_Energy_Trading+Casestudy3.svg
 
 # Puglins
 mathjax: true # whether support mathjax
