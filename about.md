@@ -141,12 +141,12 @@ Fig.2. Packet distribution on ring network. Nodes from 0 to 20 indicate power ro
 Fig.3. Variation of node voltages over time. Intermittent bursts in node 1 occur because electric charges are supplied when the voltage level $$x_1$$ drops below $$x_{th}$$.
 
 
-### Patents
+### PATENTS
 TBD
 : Multimodal AI-based Arc Fault Detection Device (AFDD)
 
 
-### Papers in PREPARATION
+### PAPERS in PREPARATION
 TBD
 : “Strutrual Stability of Energy Flow based on Fractal Topology”
 
