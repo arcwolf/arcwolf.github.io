@@ -32,9 +32,9 @@ title: About
 ### CONTACT
 Personal ◆ 7whitedays(at)gmail(dot)com
 
-Workplace ◆  s2ng.baek(at)lge(dot)com
+Workplace ◆ s2ng.baek(at)lge(dot)com
 
-Academic ◆  s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
+Academic ◆ s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
 
 
 ### RESEARCH INTERESTS
@@ -104,16 +104,13 @@ Supervisor ◆ <a href="https://scholar.google.com/citations?hl=en&user=kCJM65kA
 2019.01.09
 : **Best Paper Award** 
 > Korea-Japan Joint Workshop on Complex Communication Sciences (KJCCS)
-<!-- : Korea-Japan Joint Workshop on Complex Communication Sciences (KJCCS) -->
 
 2018.05.17
 : **Student Presentation Award** 
 > Annual conference of the Institute Systems, Control and Information Engineers (ISCIE)
-<!-- : Annual conference of the Institute Systems, Control and Information Engineers (ISCIE) -->
 
 2011.03.02 - 2016.03.24
 : <a href="{{ site.nav_ex.KJ_Joint_scholarship }}" target="_blank">**Korea-Japan Joint Government Scholarship Program**</a> 
-<!-- : Apr. 2012 – Mar. 2016 -->
 
 
 ### JOURNAL PUBLICATIONS
