@@ -174,7 +174,7 @@ TBD
 2019.03.19 - 2019.03.22
 : Y. Sangenya, **S. Baek**, and T. Hikihara, “<a href="https://www.ieice.org/jpn/event/program/2019G/_html/nolta.html#n_2" target="_blank" rel="noopener noreferrer">Structure Dependence of Power Output on Power Packet Distribution Network</a>,” in *Proc. 2019 IEICE General Conference*, vol. N-2-8, p. 292, Tokyo, Japan, 2019, (in Japanese).
 
-2018.06.08
+2018.06.01
 : **S. Baek**, H. Ando, and T. Hikihara, “<a href="https://www.ieice.org/publications/ken/summary.php?contribution_id=95702&society_cd=CS&ken_id=CS&year=2018&presen_date=2018-06-08&schedule_id=6066&lang=en&expandable=1" target="_blank" rel="noopener noreferrer">A Study on Distributed Control of Power Packet Distribution Network based on Consensus Model</a>,” in *IEICE Technical Report, Nonlinear Problems*, vol. 118, no. 76, CCS2018-1, pp. 1–5, 2018, (in Japanese).
 
 2018.05.16 - 2018.05.18
