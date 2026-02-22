@@ -120,9 +120,9 @@ At the studio.
 <a href="https://soundcloud.com/YOUR_ACCOUNT/RYLYNN_TRACK" target="_blank">Rylynn by Andy Mckee.</a>
 
 2015.10.04
-: **Acoustic Guitar Play** / for a Friend
+: **Acoustic Guitar Play** / with a Friend
 > <img src="{{ site.baseurl }}{{ site.figs.project_recordings_guitar_play_1 }}" />
-Played Rylynn by Andy Mckee.
+Under Yodogawa New Bridge, Osaka.
 
 2015.04.20
 : **Acoustic Guitar Play** / Video Recording
