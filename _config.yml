@@ -64,7 +64,7 @@ nav_ex:
   LGE_ES:
     - 'https://www.lgnewsroom.com/about/about-lg/'
   ESL:
-    - 'https://sites.google.com/view/youngjinkim/home'
+    - 'https://powersys.postech.ac.kr/eslab/index.do'
   POSTECH:
     - 'https://www.postech.ac.kr/eng/'
   Hikihara_LAB:
@@ -99,7 +99,7 @@ category_page: '/blog/categories/'
 #   caption: At Kamogawa river of Kyoto, Japan in May 19, 2015.
 
 arcwolf:
-  image: /public/img/profile_main20250209.JPG
+  image: /public/img/profile_main20260222.JPG
   caption: At my place of Busan, South Korea, in January 22, 2025.
   # caption: At my workplace of Pohang, South Korea in July 20, 2022.
 
