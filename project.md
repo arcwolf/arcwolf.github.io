@@ -74,7 +74,7 @@ The introduction of the parallel computaion solution for the part of web applica
 2025.01.02
 : **New Gear** / MIDI Keyboard
 > <img src="{{ site.baseurl }}{{ site.figs.project_recordings_new_gear_midi_keyboard }}" />
-MiniLab 3 :Universal music-making controller.
+MiniLab 3: Universal music-making controller.
 
 2023.03.07
 : **Electric Guitar Play** / Audio Recording
