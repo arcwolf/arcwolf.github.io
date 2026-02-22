@@ -259,7 +259,7 @@ fractal theory, was studied. The assistant supported the preparation of the lect
 Python, C, PHP, HTML, CSS, JavaScript, SQL, Java
 
 1. **Tools Fluency** <br> 
-Embedded System Coder, Linux System, MATLAB, MySQL, Ableton Live (Digital Audio Workstation)
+Embedded System Coder, Linux System, MATLAB, MySQL, Ansys (Engineering Simulation Software)
 
 1. **What I Build** <br>
 Scientific Analysis, Machine Learning (ML), Reinforcement Learning (RL), Parallel Computation, Numerical Simulation, Decentralization, Web Service, Mobile Application, Server, Database, Computer Vision, Automation
@@ -288,11 +288,11 @@ Scientific Analysis, Machine Learning (ML), Reinforcement Learning (RL), Paralle
 
 ### REFERENCES
 1. **Prof. Takashi Hikihara** <br>
-Department of Electrical Engineering, Kyoto University Katsura, Nishikyo, Kyoto 615-8510, Japan <br>
+Department of Electrical Engineering, Kyoto University, Katsura, Nishikyo, Kyoto 615-8510, Japan <br>
 Contact ◆ hikihara(dot)takashi(dot)2n(at)kyoto-u(dot)ac(dot)jp
 
 1. **Prof. Shinji Doi** <br>
-Department of Electrical Engineering, Kyoto University Katsura, Nishikyo, Kyoto 615-8510, Japan <br>
+Department of Electrical Engineering, Kyoto University, Katsura, Nishikyo, Kyoto 615-8510, Japan <br>
 Contact ◆ doi(at)kuee(dot)kyoto-u(dot)ac(dot)jp
 
 
