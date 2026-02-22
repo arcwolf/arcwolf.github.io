@@ -55,7 +55,7 @@ The introduction of the parallel computaion solution for the part of web applica
 : **Electric Guitar Play** / **Live on Stage**
 > <img src="{{ site.baseurl }}{{ site.figs.project_recordings_live_on_stage_1 }}" />
 <img src="{{ site.baseurl }}{{ site.figs.project_recordings_live_on_stage_2 }}" />
-Performed lead guitar in the year-end music concert.
+Performed lead guitar at the year-end music concert.
 
 2015.10.18
 : **Acoustic Guitar Play** / Audio
