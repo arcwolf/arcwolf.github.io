@@ -8,6 +8,12 @@ title: Project
 .page h3 {
   font-style: italic;
 }
+
+.sc-player {
+  width: 100%;
+  height: 150px;
+  border: 0;
+}
 </style>
 
 ### EXPLORATIONS
@@ -48,7 +54,7 @@ Built a <a href="https://github.com/arcwolf/planar_matching_w_homography" target
 : **Web Application** / Solo Development
 > <img src="{{ site.baseurl }}{{ site.figs.project_web_dev_frontpage }}" />
 Built a <a href="https://kyotoksa.com/" target="_blank">student community site</a> for Kyoto University Korean Student Association.
-The project was built with Wordpress (Workframe), AVADA (Front Theme), and Hostiger (DB, Host Server).
+The project was built with Wordpress (Workframe), AVADA (Front The02me), and Hostiger (DB, Host Server).
 <br><br>
 <img src="{{ site.baseurl }}{{ site.figs.project_web_dev_wbs }}" />
 The development concept idea at the initial stage of the project.
@@ -60,6 +66,11 @@ The introduction of the parallel computaion solution for the part of web applica
 
 
 ### INSTRUMENT RECORDINGS
+2025.01.03
+: **Electronic Music Project** / Audio Recording
+> <iframe class="sc-player" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/arcwolf-706441070/looper-beginers-first-project&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<a href="https://soundcloud.com/arcwolf-706441070/looper-beginers-first-project" target="_blank">Looper Beginner's First Project.</a> Recorded with Ableton Live.
+
 2025.01.02
 : **New Gear** / MIDI Keyboard
 > <img src="{{ site.baseurl }}{{ site.figs.project_recordings_new_gear_midi_keyboard }}" />
@@ -67,7 +78,8 @@ MiniLab 3 :Universal music-making controller.
 
 2023.02.25
 : **Electric Guitar Play** / Audio Recording
-> Pure Imagination (Guitar Cover), Soundtrack in Willy Wonka
+> <iframe class="sc-player" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/arcwolf-706441070/pure-imagination-guitar-ver&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<a href="https://soundcloud.com/arcwolf-706441070/pure-imagination-guitar-ver" target="_blank">Pure Imagination (Guitar ver.).</a> Recorded with Ableton Live.
 
 2020.04.27
 : **New Gear** / Guitar Effector
@@ -99,16 +111,22 @@ At the studio.
 
 2015.10.18
 : **Acoustic Guitar Play** / Audio Recording
-> The Milky Way by Sungha Jung.
+> <iframe class="sc-player" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/YOUR_ACCOUNT/THE_MILKY_WAY_TRACK&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<a href="https://soundcloud.com/YOUR_ACCOUNT/THE_MILKY_WAY_TRACK" target="_blank">The Milky Way by Sungha Jung.</a>
+
+2015.10.18
+: **Acoustic Guitar Play** / Audio Recording
+> <iframe class="sc-player" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/YOUR_ACCOUNT/RYLYNN_TRACK&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<a href="https://soundcloud.com/YOUR_ACCOUNT/RYLYNN_TRACK" target="_blank">Rylynn by Andy Mckee.</a>
+
+2015.10.04
+: **Acoustic Guitar Play** / for a Friend
+> <img src="{{ site.baseurl }}{{ site.figs.project_recordings_guitar_play_1 }}" />
+Played Rylynn by Andy Mckee.
 
 2015.04.20
 : **Acoustic Guitar Play** / Video Recording
 > The Milky Way by Sungha Jung.
-
-2015.10.18
-: **Acoustic Guitar Play** / Audio Recording
-> <img src="{{ site.baseurl }}{{ site.figs.project_recordings_guitar_play_1 }}" />
-Played Rylynn by Andy Mckee.
 
 2014.12.20
 : **Acoustic Guitar Play** / Video Recording
