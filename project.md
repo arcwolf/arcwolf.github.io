@@ -11,7 +11,7 @@ title: Project
 
 .sc-player {
   width: 100%;
-  height: 150px;
+  height: 115px;
   border: 0;
 }
 </style>
@@ -76,10 +76,15 @@ The introduction of the parallel computaion solution for the part of web applica
 > <img src="{{ site.baseurl }}{{ site.figs.project_recordings_new_gear_midi_keyboard }}" />
 MiniLab 3 :Universal music-making controller.
 
+2023.03.07
+: **Electric Guitar Play** / Audio Recording
+> <iframe class="sc-player" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/arcwolf-706441070/feeling-lost&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<a href="https://soundcloud.com/arcwolf-706441070/feeling-lost" target="_blank">Feeling Lost.</a> A wandering mind when feeling small in a cold society.
+
 2023.02.25
 : **Electric Guitar Play** / Audio Recording
 > <iframe class="sc-player" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/arcwolf-706441070/pure-imagination-guitar-ver&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-<a href="https://soundcloud.com/arcwolf-706441070/pure-imagination-guitar-ver" target="_blank">Pure Imagination (Guitar ver.).</a> Recorded with Ableton Live.
+<a href="https://soundcloud.com/arcwolf-706441070/pure-imagination-guitar-ver" target="_blank">Pure Imagination (Guitar ver.).</a> 
 
 2020.04.27
 : **New Gear** / Guitar Effector
