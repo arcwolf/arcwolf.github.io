@@ -12,9 +12,22 @@ title: Project
 
 ### EXPLORATIONS
 2025.06.11
-: **WBG (Wide Band Gap) Semiconductor Reviews**
+: **Presentation** / **Review of WBG (Wide Band Gap) Semiconductor**
 > <img src="{{ site.baseurl }}{{ site.figs.project_exp_wbg_research }}" />
 Presented reviews on recent power conversion technology based wide band gap semiconductor solutions. The talks cover the principles and potential risks to be considered in terms of development. 
+
+2020.03.27
+: **Presentation** / Recent Technical Reviews
+> <img src="{{ site.baseurl }}{{ site.figs.project_exp_presentation_back_projection_problem_1 }}" />
+<img src="{{ site.baseurl }}{{ site.figs.project_exp_presentation_back_projection_problem_2 }}" />
+<img src="{{ site.baseurl }}{{ site.figs.project_exp_presentation_back_projection_problem_3 }}" />
+Presented "Theories and Engineering Technics of 2D-to-3D Back-Projection Problem".
+
+2019.07.19
+: **Presentation** / Recent Technical Reviews
+> <img src="{{ site.baseurl }}{{ site.figs.project_exp_presentation_gan_1 }}" />
+<img src="{{ site.baseurl }}{{ site.figs.project_exp_presentation_gan_2 }}" />
+Presented "Introduction of DiscoGAN" along with the study on theorectical background of GAN algortihm.
 
 ### DEVELOPMENTS
 2025.12.27 - 2026.01.02
