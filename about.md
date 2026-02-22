@@ -37,6 +37,16 @@ Workplace ◆  s2ng.baek(at)lge(dot)com
 Academic ◆  s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
 
 
+### RESEARCH INTERESTS
+Chaos,
+Network Dynamics,
+Communication System,
+Complex Communication,
+Energy Management System,
+Decentralized Control,
+Algorithmic Design
+
+
 ### WORK EXPERIENCES
 2025.03.04 – Present
 : **Senior Research Engineer** / R&D / SW Application, Embedded System
@@ -68,31 +78,20 @@ Academic ◆  s-baek(at)dove(dot)kuee(dot)kyoto-u(dot)ac(dot)jp
 : --- Kyoto University, Department of Electrical Engineering
 > Lab ◆ Laboratory of Advanced Electrical Systems Theory <br>
 Dissertation ◆ “<a href="{{ site.nav_ex.paper_phd }}" target="_blank">Dynamical Analysis and Decentralized Control of Power Packet Network</a>” <br>
-Commitee ◆ Prof. Takashi Hikihara (chair), Prof. Shinji Doi, and Prof. Ken Umeno
+Commitee ◆ <a href="https://scholar.google.com/citations?hl=en&user=kCJM65kAAAAJ" target="_blank">Prof. Takashi Hikihara</a> (chair), <a href="https://www.s-ee.t.kyoto-u.ac.jp/en/information/laboratory/cst/index.html" target="_blank">Prof. Shinji Doi</a>, and <a href="https://scholar.google.com/citations?user=y7wUm14AAAAJ&hl=en" target="_blank">Prof. Ken Umeno</a>
 
 2018.03.26
 : **Master Degree in Electrical Engineering**
 : --- Kyoto University, Department of Electrical Engineering
 > Lab ◆ Laboratory of Advanced Electrical Systems Theory <br>
 Thesis ◆ “Model of Distributed Control and Analysis of Power Transmission on Power Packet Distribution Network” <br>
-Supervisor ◆ Prof. Takashi Hikihara
+Supervisor ◆ <a href="https://scholar.google.com/citations?hl=en&user=kCJM65kAAAAJ" target="_blank">Prof. Takashi Hikihara</a>
 
 2016.03.24
 : **Bachelor Degree in Electrical and Electronic Engineering**
 : --- Kyoto University, Electrical and Electronic Engineering
 > Thesis ◆  “A Study on Modeling of Distribution Voltage Profile Using Data on Power Supply-Demand Density” <br>
-Supervisor ◆ Prof. Takashi Hikihara
-
-
-
-### RESEARCH INTERESTS
-◆ Chaos
-◆ Network Dynamics 
-◆ Communication System
-◆ Complex Communication
-◆ Energy Management System
-◆ Decentralized Control
-◆ Algorithmic Design
+Supervisor ◆ <a href="https://scholar.google.com/citations?hl=en&user=kCJM65kAAAAJ" target="_blank">Prof. Takashi Hikihara</a>
 
 
 ### HONORS AND AWARDS
@@ -139,8 +138,12 @@ Fig.2. Packet distribution on ring network. Nodes from 0 to 20 indicate power ro
 Fig.3. Variation of node voltages over time. Intermittent bursts in node 1 occur because electric charges are supplied when the voltage level $$x_1$$ drops below $$x_{th}$$.
 
 
+### Patents
+TBD
+: Multimodal AI-based Arc Fault Detection Device (AFDD)
 
-### in PREPARATION
+
+### Papers in PREPARATION
 TBD
 : “Strutrual Stability of Energy Flow based on Fractal Topology”
 
@@ -205,6 +208,27 @@ fractal theory, was studied. The assistant supported the preparation of the lect
 > As an assistant, a diverse and technical understanding in the theory of the lecture was deepened and improved than before as a student. The assistant supported the preparation of the lectures/reports, the response to the questions by students, and the evaluation of reports and works done by students.
 
 
+### CERTIFICATES
+2025.09.05
+: <a href="https://www.dataq.or.kr/www/sub/a_06.do" target="_blank">ADsP (Advanced Data Analytics Semi-Professional)</a>
+
+
+### LANGUAGES
+2026.01
+: JPN ◆ JLPT N1 (CEFR B2)
+> Native/Full Professional Proficiency
+
+2025.11
+: ENG ◆ TOEIC Speaking 140 (Level 7)
+
+2021.01
+: ENG ◆ TOEFL iBT 83 (CEFR B2)
+> Professional Working Proficiency
+
+2016.01
+: JPN ◆ JLPT N1
+
+
 ### MEMBERSHIPS
 2023.06 - 2024.06
 : Member 
@@ -231,27 +255,6 @@ fractal theory, was studied. The assistant supported the preparation of the lect
 2015.04 - 2016.03
 : PR
 > <a href="https://www.instagram.com/kansaikorean2025/" target="_blank">Kansai Korean International Student Association (KKIA)</a>
-
-
-### CERTIFICATES
-2025.09.05
-: <a href="https://www.dataq.or.kr/www/sub/a_06.do" target="_blank">ADsP (Advanced Data Analytics Semi-Professional)</a>
-
-
-### LANGUAGES
-2026.01
-: JPN ◆ JLPT N1 (CEFR B2)
-> Native/Full Professional Proficiency
-
-2025.11
-: ENG ◆ TOEIC Speaking 140 (Level 7)
-
-2021.01
-: ENG ◆ TOEFL iBT 83 (CEFR B2)
-> Professional Working Proficiency
-
-2016.01
-: JPN ◆ JLPT N1
 
 
 ### COMPUTER SKILLS
