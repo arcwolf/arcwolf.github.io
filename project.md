@@ -33,7 +33,7 @@ Built a <a href="https://kyotoksa.com/" target="_blank">student community site</
 The project was built with Wordpress (Workframe), AVADA (Front Theme), and Hostiger (DB, Host Server).
 <br><br>
 <img src="{{ site.baseurl }}{{ site.figs.project_web_dev_wbs }}" />
-The development concept idea in the initial stage of the project.
+The development concept idea at the initial stage of the project.
 
 2020.06.16
 : **Computor Vision Algorithm** / Solo Development / Rutilea
