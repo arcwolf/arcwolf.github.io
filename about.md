@@ -261,43 +261,38 @@ fractal theory, was studied. The assistant supported the preparation of the lect
 
 
 ### COMPUTER SKILLS
-1. **Coding Fluency**<br>
+- **Coding Fluency**<br>
 Python, C, PHP, HTML, CSS, JavaScript, SQL, Java
 
-1. **Tools Fluency** <br> 
+- **Tools Fluency** <br> 
 Embedded System Coder, Linux System, MATLAB, MySQL, Ansys (Engineering Simulation Software)
 
-1. **What I Build** <br>
+- **What I Build** <br>
 Scientific Analysis, Machine Learning (ML), Reinforcement Learning (RL), Parallel Computation, Numerical Simulation, Decentralization, Web Service, Mobile Application, Server, Database, Computer Vision, Automation
 
 
 ### OTHER LINKS
-1. **Profile in Hikihara Lab** <br>
-<a href="https://www-lab23.kuee.kyoto-u.ac.jp/ja/index.php?Seongcheol%20Baek" target="_blank" rel="noopener noreferrer">https://www-lab23.kuee.kyoto-u.ac.jp/ja/index.php?Seongcheol%20Baek</a>
+- <a href="https://www-lab23.kuee.kyoto-u.ac.jp/ja/index.php?Seongcheol%20Baek" target="_blank" rel="noopener noreferrer">Profile in Hikihara Lab</a>
 
-1. **SlideShare** <br>
-<a href="http://slideshare.net/SeongcheolBaek" target="_blank" rel="noopener noreferrer">slideshare.net/SeongcheolBaek</a>
+- <a href="http://slideshare.net/SeongcheolBaek" target="_blank" rel="noopener noreferrer">SlideShare</a>
 
-1. **Facebook** <br>
-<a href="https://www.facebook.com/s.baek0516" target="_blank" rel="noopener noreferrer">facebook.com/s.baek0516</a>
+- <a href="https://www.facebook.com/s.baek0516" target="_blank" rel="noopener noreferrer">Facebook</a>
 
-1. **LinkedIn** <br>
-<a href="https://www.linkedin.com/in/seongcheol-baek-482aa2179" target="_blank" rel="noopener noreferrer">linkedin.com/in/seongcheol-baek-482aa2179</a>
+- <a href="https://www.linkedin.com/in/seongcheol-baek-482aa2179" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
-1. **ORCID** <br>
-<a href="http://orcid.org/0000-0002-3480-7588" target="_blank" rel="noopener noreferrer">orcid.org/0000-0002-3480-7588</a>
+- <a href="http://orcid.org/0000-0002-3480-7588" target="_blank" rel="noopener noreferrer">ORCID</a>
 
-1. **GitHub** <br>
-<a href="https://github.com/arcwolf" target="_blank" rel="noopener noreferrer">github.com/arcwolf</a>
+- <a href="https://github.com/arcwolf" target="_blank" rel="noopener noreferrer">GitHub</a>
+
 
 
 
 ### REFERENCES
-1. <a href="https://scholar.google.com/citations?hl=en&user=kCJM65kAAAAJ" target="_blank">**Prof. Takashi Hikihara**</a> <br>
+- <a href="https://scholar.google.com/citations?hl=en&user=kCJM65kAAAAJ" target="_blank">**Prof. Takashi Hikihara**</a> <br>
 Department of Electrical Engineering, Kyoto University, Katsura, Nishikyo, Kyoto 615-8510, Japan <br>
 Contact ◆ hikihara(dot)takashi(dot)2n(at)kyoto-u(dot)ac(dot)jp
 
-1. <a href="https://www.s-ee.t.kyoto-u.ac.jp/en/information/laboratory/cst/index.html" target="_blank">**Prof. Shinji Doi**</a> <br>
+- <a href="https://www.s-ee.t.kyoto-u.ac.jp/en/information/laboratory/cst/index.html" target="_blank">**Prof. Shinji Doi**</a> <br>
 Department of Electrical Engineering, Kyoto University, Katsura, Nishikyo, Kyoto 615-8510, Japan <br>
 Contact ◆ doi(at)kuee(dot)kyoto-u(dot)ac(dot)jp
 
