@@ -26,6 +26,11 @@ The concept of program development.
 : **Web Application** / Solo Development
 > Built a personal Github profile page.
 
+2020.06.16
+: **Computor Vision Algorithm** / Solo Development / Rutilea
+> <img src="{{ site.baseurl }}{{ site.figs.project_alg_planar_matching }}" />
+Built a <a href="https://github.com/arcwolf/planar_matching_w_homography" target="_blank">planar matching demo</a>, which is driven with key-point matching (ORB or BRISK method) and homograph method.
+
 2019.12.27 - 2020.02.10
 : **Web Application** / Solo Development
 > <img src="{{ site.baseurl }}{{ site.figs.project_web_dev_frontpage }}" />
@@ -34,11 +39,6 @@ The project was built with Wordpress (Workframe), AVADA (Front Theme), and Hosti
 <br><br>
 <img src="{{ site.baseurl }}{{ site.figs.project_web_dev_wbs }}" />
 The development concept idea at the initial stage of the project.
-
-2020.06.16
-: **Computor Vision Algorithm** / Solo Development / Rutilea
-> <img src="{{ site.baseurl }}{{ site.figs.project_alg_planar_matching }}" />
-Built a <a href="https://github.com/arcwolf/planar_matching_w_homography" target="_blank">planar matching demo</a>, which is driven with key-point matching (ORB or BRISK method) and homograph method.
 
 2018.11.10 - 2018.12.13
 : **Parallel Computation** / Solo Development / Kyoto Innovation
