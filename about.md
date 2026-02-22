@@ -194,14 +194,14 @@ TBD
 2019.Q1, Winter
 : **Teaching Assistant**
 : --- Kyoto University, Department of Electrical Engineering
-: ◆ *Introduction to Nonlinear Science-E2*, Lectured by Prof. Maciej Ogorzalek
+: ◆ *Introduction to Nonlinear Science-E2*, Lectured by <a href="https://scholar.google.com/citations?user=ore0LygAAAAJ&hl=en" target="_blank">Prof. Maciej Ogorzalek</a> 
 > A diverse and deep understanding in nonlinear science such as chaos theory and
 fractal theory, was studied. The assistant supported the preparation of the lecture and the evaluation of reports and works done by students, also providing a direct lecture to students for the numerical simulations.
 
 2016.04 - 2016.09
 : **Teaching Assistant**
 : --- Kyoto University, Department of Electrical Engineering
-: ◆ *Oscillations and Waves Theory*, Lectured by Prof. Takashi Hikihara
+: ◆ *Oscillations and Waves Theory*, Lectured by <a href="https://scholar.google.com/citations?hl=en&user=kCJM65kAAAAJ" target="_blank">Prof. Takashi Hikihara</a>
 > As an assistant, a diverse and technical understanding in the theory of the lecture was deepened and improved than before as a student. The assistant supported the preparation of the lectures/reports, the response to the questions by students, and the evaluation of reports and works done by students.
 
 
@@ -226,16 +226,16 @@ fractal theory, was studied. The assistant supported the preparation of the lect
 ### COMMUNITY SERVICES
 2016.04 - 2017.03
 : Association President
-> Kyoto University Korean Student Association
+> <a href="https://kyotoksa.com/" target="_blank">Kyoto University Korean Student Association</a> 
 
 2015.04 - 2016.03
 : PR
-> Kansai Korean International Student Association (KKIA)
+> <a href="https://www.instagram.com/kansaikorean2025/" target="_blank">Kansai Korean International Student Association (KKIA)</a>
 
 
 ### CERTIFICATES
 2025.09.05
-: ADsP (Advanced Data Analytics Semi-Professional)
+: <a href="https://www.dataq.or.kr/www/sub/a_06.do" target="_blank">ADsP (Advanced Data Analytics Semi-Professional)</a>
 
 
 ### LANGUAGES
@@ -287,11 +287,11 @@ Scientific Analysis, Machine Learning (ML), Reinforcement Learning (RL), Paralle
 
 
 ### REFERENCES
-1. **Prof. Takashi Hikihara** <br>
+1. <a href="https://scholar.google.com/citations?hl=en&user=kCJM65kAAAAJ" target="_blank">**Prof. Takashi Hikihara**</a> <br>
 Department of Electrical Engineering, Kyoto University, Katsura, Nishikyo, Kyoto 615-8510, Japan <br>
 Contact ◆ hikihara(dot)takashi(dot)2n(at)kyoto-u(dot)ac(dot)jp
 
-1. **Prof. Shinji Doi** <br>
+1. <a href="https://www.s-ee.t.kyoto-u.ac.jp/en/information/laboratory/cst/index.html" target="_blank">**Prof. Shinji Doi**</a> <br>
 Department of Electrical Engineering, Kyoto University, Katsura, Nishikyo, Kyoto 615-8510, Japan <br>
 Contact ◆ doi(at)kuee(dot)kyoto-u(dot)ac(dot)jp
 
