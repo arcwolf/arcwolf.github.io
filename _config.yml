@@ -117,8 +117,15 @@ figs:
   project_prgm_dev_concept: /public/img/Fig+Project+Prgm_Dev+Concept.png
   project_alg_planar_matching: /public/img/Fig+Project+Alg+Planar_Matching.gif
   project_exp_wbg_research: /public/img/Fig+Project+Exp+WBG_research.png
+  project_recordings_session_practice_1: /public/img/Fig+Project+Recordings+Session_Practice_1.jpg
+  project_recordings_live_leaflet_2: /public/img/Fig+Project+Recordings+Live_leaflet_2.jpg
   project_recordings_live_on_stage_1: /public/img/Fig+Project+Recordings+Live_on_stage_1.jpg
   project_recordings_live_on_stage_2: /public/img/Fig+Project+Recordings+Live_on_stage_2.jpg
+  project_recordings_new_guitar_1: /public/img/Fig+Project+Recordings+New_Guitar_1.jpg
+  project_recordings_new_guitar_2: /public/img/Fig+Project+Recordings+New_Guitar_2.jpg
+  project_recordings_new_gear_bluesky: /public/img/Fig+Project+Recordings+New_Gear_bluesky.jpg
+  project_recordings_new_gear_midi_keyboard: /public/img/Fig+Project+Recordings+New_Gear_MIDI_keyboard.jpg
+  project_recordings_guitar_play_1: /public/img/Fig+Project+Recordings+Guitar_Play_1.jpg
 
 
 # Puglins

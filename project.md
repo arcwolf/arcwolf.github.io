@@ -47,9 +47,26 @@ The introduction of the parallel computaion solution for the part of web applica
 
 
 ### INSTRUMENT RECORDINGS
+2025.01.02
+: **New Gear** / MIDI Keyboard
+> <img src="{{ site.baseurl }}{{ site.figs.project_recordings_new_gear_midi_keyboard }}" />
+MiniLab 3 :Universal music-making controller.
+
 2023.02.25
-: **Electric Guitar Play** / Audio
+: **Electric Guitar Play** / Audio Recording
 > Pure Imagination (Guitar Cover), Soundtrack in Willy Wonka
+
+2020.04.27
+: **New Gear** / Guitar Effector
+> <img src="{{ site.baseurl }}{{ site.figs.project_recordings_new_gear_bluesky }}" />
+Strymon Bluesky Reverb Pedal.
+
+2020.02.11
+: **New Gear** / Electric Guitar
+> <img src="{{ site.baseurl }}{{ site.figs.project_recordings_new_guitar_1 }}" />
+Fender American Elite Telecaster with Ebony Fingerboard in Satin Ice Blue Metallic. <br><br>
+<img src="{{ site.baseurl }}{{ site.figs.project_recordings_new_guitar_2 }}" />
+Played the $2000 guitar at the weekend trip.
 
 2019.12.14
 : **Electric Guitar Play** / **Live on Stage**
@@ -57,22 +74,33 @@ The introduction of the parallel computaion solution for the part of web applica
 <img src="{{ site.baseurl }}{{ site.figs.project_recordings_live_on_stage_2 }}" />
 Performed lead guitar at the year-end music concert.
 
+2019.12.08
+: **Electric Guitar Play** / Rehearsal
+> <img src="{{ site.baseurl }}{{ site.figs.project_recordings_live_leaflet_2 }}" />
+A part of the concert live leaflets.
+
+2019.05.27
+: **Electric Guitar Play** / Session Practice for a Concert
+> <img src="{{ site.baseurl }}{{ site.figs.project_recordings_session_practice_1 }}" />
+At the studio.
+
 2015.10.18
-: **Acoustic Guitar Play** / Audio
-> The Milky Way by Sungha Jung
+: **Acoustic Guitar Play** / Audio Recording
+> The Milky Way by Sungha Jung.
 
 2015.04.20
-: **Acoustic Guitar Play** / Video
-> The Milky Way by Sungha Jung
+: **Acoustic Guitar Play** / Video Recording
+> The Milky Way by Sungha Jung.
 
 2015.10.18
-: **Acoustic Guitar Play** / Audio
-> Rylynn by Andy Mckee
+: **Acoustic Guitar Play** / Audio Recording
+> <img src="{{ site.baseurl }}{{ site.figs.project_recordings_guitar_play_1 }}" />
+Played Rylynn by Andy Mckee.
 
 2014.12.20
-: **Acoustic Guitar Play** / Video
-> Rylynn by Andy Mckee
+: **Acoustic Guitar Play** / Video Recording
+> Rylynn by Andy Mckee.
 
 2014.07.10
-: **Acoustic Guitar Play** / Video
-> Drifting by Andy Mckee
+: **Acoustic Guitar Play** / Video Recording
+> Drifting by Andy Mckee.
