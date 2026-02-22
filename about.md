@@ -44,7 +44,10 @@ Communication System,
 Complex Communication,
 Energy Management System,
 Decentralized Control,
-Algorithmic Design
+Algorithmic Design,
+AI-Boosted Embedded System,
+Robotics,
+Semiconductors
 
 
 ### WORK EXPERIENCES
