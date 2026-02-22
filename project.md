@@ -23,11 +23,11 @@ Presented reviews on recent power conversion technology based wide band gap semi
 The concept of program development.
 
 2021.06.28
-: **Web application** / Solo Development
+: **Web Application** / Solo Development
 > Built a personal Github profile page.
 
 2019.12.27 - 2020.02.10
-: **Web application** / Solo Development
+: **Web Application** / Solo Development
 > <img src="{{ site.baseurl }}{{ site.figs.project_web_dev_frontpage }}" />
 Built a <a href="https://kyotoksa.com/" target="_blank">student community site</a> for Kyoto University Korean Student Association.
 The project was built with Wordpress (Workframe), AVADA (Front Theme), and Hostiger (DB, Host Server).
