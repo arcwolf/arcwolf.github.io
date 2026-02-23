@@ -81,7 +81,7 @@ Semiconductors
 : --- Kyoto University, Department of Electrical Engineering
 > Lab ◆ Laboratory of Advanced Electrical Systems Theory <br>
 Dissertation ◆ “<a href="{{ site.nav_ex.paper_phd }}" target="_blank">Dynamical Analysis and Decentralized Control of Power Packet Network</a>” <br>
-Commitee ◆ <a href="https://scholar.google.com/citations?hl=en&user=kCJM65kAAAAJ" target="_blank">Prof. Takashi Hikihara</a> (chair), <a href="https://www.s-ee.t.kyoto-u.ac.jp/en/information/laboratory/cst/index.html" target="_blank">Prof. Shinji Doi</a>, and <a href="https://scholar.google.com/citations?user=y7wUm14AAAAJ&hl=en" target="_blank">Prof. Ken Umeno</a>
+Committee ◆ <a href="https://scholar.google.com/citations?hl=en&user=kCJM65kAAAAJ" target="_blank">Prof. Takashi Hikihara</a> (chair), <a href="https://www.s-ee.t.kyoto-u.ac.jp/en/information/laboratory/cst/index.html" target="_blank">Prof. Shinji Doi</a>, and <a href="https://scholar.google.com/citations?user=y7wUm14AAAAJ&hl=en" target="_blank">Prof. Ken Umeno</a>
 
 2018.03.26
 : **Master Degree in Electrical Engineering**
@@ -115,7 +115,7 @@ Supervisor ◆ <a href="https://scholar.google.com/citations?hl=en&user=kCJM65kA
 
 ### JOURNAL PUBLICATIONS
 2024.10.16
-: **S. Baek**, S. Hahm, Y. -J. Kim, and J. P. S. Catalão, “<a href="https://ieeexplore.ieee.org/document/10720016" target="_blank" rel="noopener noreferrer">Security-constrained P2P Energy Trading Strategy via Priced-based Regularization of ADMM in a Distribution Network</a>,” *IEEE Access*, vol. 12, pp. 152972–152988, 2024. doi:10.1109/ACCESS.2024.348150
+: **S. Baek**, S. Hahm, Y. -J. Kim, and J. P. S. Catalão, “<a href="https://ieeexplore.ieee.org/document/10720016" target="_blank" rel="noopener noreferrer">Security-constrained P2P Energy Trading Strategy via Price-based Regularization of ADMM in a Distribution Network</a>,” *IEEE Access*, vol. 12, pp. 152972–152988, 2024. doi:10.1109/ACCESS.2024.348150
 > <img src="{{ site.baseurl }}{{ site.figs.ieeeaccess2024_1 }}" />
 Fig.1. Overall schematic diagram of the proposed security-constrained P2P energy trading strategy.
 <img src="{{ site.baseurl }}{{ site.figs.ieeeaccess2024_2 }}" />
@@ -126,10 +126,10 @@ Fig.8. Optimal bidding energies and prices with complete regularization by the D
 > <img src="{{ site.baseurl }}{{ site.figs.nolta2021_1 }}" />
 Fig.1. Layout of a power packet network (PPN). Using the store-and-forward method, the power routers deliver the power packets from the supply side to the demand side.
 <img src="{{ site.baseurl }}{{ site.figs.nolta2021_2 }}" />
-Fig.4. Decentralized algorithms of the (a) bottom-up method and (b) topdown method for a power router. The algorithm is divided into three loops: termination of packet transmission, packet forwarding, and packet storing. The bottom-up method and top-down method employ the different loops of packet forwarding and packet storing, according to each of the communication logics. Here, the parentheses () indicate the transition conditions, and the superscript-($$'$$) denotes the updated values when transitioned.
+Fig.4. Decentralized algorithms of the (a) bottom-up method and (b) top-down method for a power router. The algorithm is divided into three loops: termination of packet transmission, packet forwarding, and packet storing. The bottom-up method and top-down method employ the different loops of packet forwarding and packet storing, according to each of the communication logics. Here, the parentheses () indicate the transition conditions, and the superscript-($$'$$) denotes the updated values when transitioned.
 
 2020.03.05
-: **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “<a href="https://doi.org/10.1063/1.5134735" target="_blank" rel="noopener noreferrer">Consensus-Based Distribution of Power Packets and Decentralized Control for Routing</a>,” *AIP chaos: An Interdisciplinary Journal of Nonlinear Science*, vol. 30, no. 3, pp. 033115, 2020. doi:10.1063/1.5134735
+: **S. Baek (corresp. auth.)**, H. Ando, and T. Hikihara, “<a href="https://doi.org/10.1063/1.5134735" target="_blank" rel="noopener noreferrer">Consensus-Based Distribution of Power Packets and Decentralized Control for Routing</a>,” *AIP Chaos: An Interdisciplinary Journal of Nonlinear Science*, vol. 30, no. 3, pp. 033115, 2020. doi:10.1063/1.5134735
 > $${x}(K+1) = {P}{x}(K) - D{\epsilon}(K) + [I(K), 0, \dots, 0]^{\rm T}$$ <br>
 Eq.2. Bio-Inspired voltage dynamics of storage nodes $$x$$. 
 > <img src="{{ site.baseurl }}{{ site.figs.aipchaos2019_1 }}" style="width: 60%;" />
@@ -145,7 +145,7 @@ TBD
 
 ### PAPERS in PREPARATION
 TBD
-: “Strutrual Stability of Energy Flow based on Fractal Topology”
+: “Structural Stability of Energy Flow based on Fractal Topology”
 
 
 ### PEER-REVIEWED INTERNATIONAL CONFERENCE PROCEEDINGS
@@ -175,13 +175,13 @@ TBD
 : **S. Baek**, H. Ando, and T. Hikihara, “<a href="https://www.ieice.org/publications/ken/summary.php?contribution_id=95702&society_cd=CS&ken_id=CS&year=2018&presen_date=2018-06-08&schedule_id=6066&lang=en&expandable=1" target="_blank" rel="noopener noreferrer">A Study on Distributed Control of Power Packet Distribution Network based on Consensus Model</a>,” in *IEICE Technical Report, Nonlinear Problems*, vol. 118, no. 76, CCS2018-1, pp. 1–5, 2018, (in Japanese).
 
 2018.05.16 - 2018.05.18
-: **S. Baek**, H. Ando, and T. Hikihara, “<a href="https://sci18.iscie.or.jp/confprog/#/talks/" target="_blank" rel="noopener noreferrer">A Study on Decentralized Operations of Power Routers with Consensus in Power Packet Distribution Network</a>,” in *Proc. 62th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 212-5, Kyoto, Japan, 2018, (in Japanese).
+: **S. Baek**, H. Ando, and T. Hikihara, “<a href="https://sci18.iscie.or.jp/confprog/#/talks/" target="_blank" rel="noopener noreferrer">A Study on Decentralized Operations of Power Routers with Consensus in Power Packet Distribution Network</a>,” in *Proc. 62nd Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 212-5, Kyoto, Japan, 2018, (in Japanese).
 
 2018.03.20 - 2018.03.23
 : S. Katayama, **S. Baek**, and T. Hikihara, “<a href="https://www.ieice.org/jpn/event/program/2018G/Settings/html/print/nolta.pdf" target="_blank" rel="noopener noreferrer">A Numerical Study of Power Line Usage for Energy on Demand Control by Power Packet</a>,” in *Proc. 2018 IEICE General Conference*, vol. N-2-1, p. 252, Tokyo, Japan, 2018, (in Japanese).
 
 2017.05.23 - 2017.05.25
-: **S. Baek**, and T. Hikihara, “<a href="https://sci17.iscie.or.jp/confprog/#/talks" target="_blank" rel="noopener noreferrer">Evaluation for Transmission of Power and Information Tag by Power Packet in Multi-stage Power-router</a>,” in *Proc. 61th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 133-5, Kyoto, Japan, 2017, (in Japanese).
+: **S. Baek**, and T. Hikihara, “<a href="https://sci17.iscie.or.jp/confprog/#/talks" target="_blank" rel="noopener noreferrer">Evaluation for Transmission of Power and Information Tag by Power Packet in Multi-stage Power-router</a>,” in *Proc. 61st Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)*, no. 133-5, Kyoto, Japan, 2017, (in Japanese).
 
 2017.03.22 - 2017.03.25
 : **S. Baek**, and T. Hikihara, “<a href="https://www.ieice.org/jpn/event/program/2017G/Settings/html/print/nolta.pdf" target="_blank" rel="noopener noreferrer">Evaluation for Transmission of Power and Information Tag by Regulating Payload of Power Packet</a>,” in *Proc. 2017 IEICE General Conference*, vol. NBS-1-2, p. S–52, Nagoya, Japan, 2017, (in Japanese).
@@ -244,7 +244,7 @@ fractal theory, was studied. The assistant supported the preparation of the lect
 
 2016.04 - 2021.03
 : Student Member
-> Institute of Systems, Control and. Information Engineers (ISCIE)
+> Institute of Systems, Control and Information Engineers (ISCIE)
 
 
 ### COMMUNITY SERVICES
