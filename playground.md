@@ -74,6 +74,12 @@ Fender American Elite Telecaster with Ebony Fingerboard in Satin Ice Blue Metall
 <img src="{{ site.baseurl }}{{ site.figs.project_recordings_new_guitar_2 }}" />
 Played the $2000 guitar at the weekend trip.
 
+2019.12.15
+: Refresh
+> <img src="{{ site.baseurl }}{{ site.figs.project_recordings_shopping_2 }}" />
+<img src="{{ site.baseurl }}{{ site.figs.project_recordings_shopping_3 }}" />
+At a guitar shop in Kyoto.
+
 2019.12.14
 : **Electric Guitar Play** / **Live on Stage**
 > <img src="{{ site.baseurl }}{{ site.figs.project_recordings_live_on_stage_1 }}" />
@@ -104,6 +110,11 @@ A part of the concert live leaflets.
 : **Electric Guitar Play** / Session Practice for a Concert
 > <img src="{{ site.baseurl }}{{ site.figs.project_recordings_session_practice_1 }}" />
 At the studio.
+
+2019.04.21
+: Refresh
+> <img src="{{ site.baseurl }}{{ site.figs.project_recordings_shopping_1 }}" />
+At a guitar shop.
 
 2015.10.18
 : **Acoustic Guitar Play** / Audio Recording
