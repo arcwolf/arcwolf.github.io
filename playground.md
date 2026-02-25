@@ -82,7 +82,8 @@ At a guitar shop in Kyoto.
 
 2019.12.14
 : **Electric Guitar Play** / **Live on Stage**
-> <img src="{{ site.baseurl }}{{ site.figs.project_recordings_live_on_stage_1 }}" />
+> <img src="{{ site.baseurl }}{{ site.figs.project_recordings_live_on_stage_0 }}" /> 
+<img src="{{ site.baseurl }}{{ site.figs.project_recordings_live_on_stage_1 }}" />
 <img src="{{ site.baseurl }}{{ site.figs.project_recordings_live_on_stage_2 }}" />
 Performed lead guitar at the year-end music concert.
 
