@@ -134,12 +134,23 @@ Under Yodogawa New Bridge, Osaka.
 
 2015.04.20
 : **Acoustic Guitar Play** / Video Recording
-> The Milky Way by Sungha Jung.
+> <img src="{{ site.baseurl }}{{ site.figs.project_recordings_guitar_play_video_milky_way }}" />
+Filmed the Acoustic Cover of The Milky Way (by Sungha Jung).
 
 2014.12.20
 : **Acoustic Guitar Play** / Video Recording
-> Rylynn by Andy McKee.
+> <img src="{{ site.baseurl }}{{ site.figs.project_recordings_guitar_play_video_rylynn }}" />
+Filmed the Acoustic Cover of Rylynn (by Andy McKee).
 
 2014.07.10
 : **Acoustic Guitar Play** / Video Recording
-> Drifting by Andy McKee.
+> <img src="{{ site.baseurl }}{{ site.figs.project_recordings_guitar_play_video_drifting }}" />
+Filmed the Acoustic Cover of Drifting (by Andy McKee).
+
+
+### MOMENTS
+2015.05.19
+: **School Days** / On a Picnic
+> <img src="{{ site.baseurl }}{{ site.figs.project_playground_moments_school_days_1 }}" />
+<img src="{{ site.baseurl }}{{ site.figs.project_playground_moments_school_days_2 }}" />
+At a Delta of Kamogawa in Kyoto.
