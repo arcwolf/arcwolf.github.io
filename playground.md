@@ -148,6 +148,25 @@ Filmed the Acoustic Cover of Rylynn (by Andy McKee).
 Filmed the Acoustic Cover of Drifting (by Andy McKee).
 
 
+### Chord-Progression Memos
+2026.03.02
+: **Jazz** / Butterfly Chords
+```
+Ebmaj	Abm	Abm	Db
+Eb	Abm	Bmaj	Emaj#11
+Ebmaj 	Abm 	Ebmaj 	Abm
+Emaj 	Ebmaj
+```
+
+2026.03.02
+: **Jazz** / Silver Lining Chords
+```
+Gmaj	Cm	Bbmaj	Am
+Gmaj	Cm	Eb	F
+Gmaj
+```
+
+
 ### MOMENTS
 2015.05.19
 : **School Days** / On a Picnic
