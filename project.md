@@ -32,6 +32,7 @@ Presented "Theories and Engineering Techniques of 2D-to-3D Back-Projection Probl
 <img src="{{ site.baseurl }}{{ site.figs.project_exp_presentation_gan_2 }}" />
 Presented "Introduction of DiscoGAN" along with the study on theoretical background of GAN algorithm.
 
+
 ### DEVELOPMENTS
 2025.12.27 - 2026.01.02
 : **Autotrading Program** / Solo Development
@@ -60,3 +61,10 @@ The development concept idea at the initial stage of the project.
 : **Parallel Computation** / Solo Development / Kyoto Innovation
 > <img src="{{ site.baseurl }}{{ site.figs.project_prgm_dev_distcomp_idea }}" />
 The introduction of the parallel computation solution for the part of web application.
+
+
+### MICSELLANEOUS
+2026.03.02
+: **Computer Science** / Data Structure
+> <img src="{{ site.baseurl }}{{ site.figs.project_prgm_dev_data_optimization_1 }}" />
+[<a href="https://www.cs.umd.edu/class/spring2021/cmsc420-0101/Lects/lect02-basics.pdf" target="_blank">Source</a>]
