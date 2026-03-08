@@ -49,8 +49,10 @@ nav:
     - '/project/'
   Playground:
     - '/playground/'
-  Trip:
-    - '/trip/'
+  Learning:
+    - '/learning/'
+  # Trip:
+  #   - '/trip/'
   # Blog:           
   #   - '/blog/'
   #   - { Categories: '/blog/categories/' }
