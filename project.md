@@ -14,7 +14,12 @@ title: Project
 ### DEVELOPMENTS
 2026.03.08 - Under Dev.
 : **AI Asistance** / Solo Development
-> Requirements : Personal Server and Handy Terminal.
+> Under preparation of the followings:
+- Machine for AI (Macbook Pro 2016)
+- AI Agent (OpenClaw)
+- CLI Applications
+- Teminal (iMessage on mobile phone)
+
 
 2025.12.27 - 2026.01.02
 : **Autotrading Program** / Solo Development
@@ -47,6 +52,10 @@ The introduction of the parallel computation solution for the part of web applic
 
 
 ### EXPLORATIONS
+<!-- 2026.04.17
+: **Coding Test** / LG SWPCT (Software Programming Competency Test)
+> Evaluated software development skills through online coding test. -->
+
 2025.06.11
 : **Presentation** / Review of WBG (Wide Band Gap) Semiconductor
 > <img src="{{ site.baseurl }}{{ site.figs.project_exp_wbg_research }}" />
