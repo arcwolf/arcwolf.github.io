@@ -14,11 +14,24 @@ title: Project
 ### DEVELOPMENTS
 2026.03.08 - Under Dev.
 : **AI Asistance** / Solo Development
-> Under preparation of the followings:
-- Machine for AI (Macbook Pro 2016)
-- AI Agent (OpenClaw)
-- CLI Applications
-- Teminal (iMessage on mobile phone)
+> <img src="{{ site.baseurl }}{{ site.figs.project_prgm_dev_openclaw }}" />
+Under preparation of the followings:
+1. Machine for AI (Macbook Pro 2016)
+- MacOS Update via OpenCore Legacy Patcher:
+[<a href="https://newmkka.tistory.com/entry/%EA%B5%AC%ED%98%95-Mac%EC%97%90-%EC%B5%9C%EC%8B%A0-macOS-Sequoia-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-OpenCore-Legacy-Patcher-%EA%B0%80%EC%9D%B4%EB%93%9C" target="_blank">Link 1</a>]
+[<a href="https://smilewolf.tistory.com/915" target="_blank">Link 2</a>]
+- Why?: OpenClaw requires macOS 15+
+- Version Updated: 15.4.1 Sequoia
+1. AI Agent (OpenClaw)
+- Installation: [<a href="https://openclaw.ai/" target="_blank">Link</a>]
+- Configureations: Gateway Auth, Permissions (700), Session Store, Plugins, Memory Search, Channel
+1. CLI Applications (Lists)
+- Google Cloud CLI: [<a href="https://docs.cloud.google.com/sdk/docs/install-sdk?hl=ko" target="_blank">Link</a>] 
+1. Channel 
+- iMessage
+- Discord
+1. Notes
+- Blog 1 [<a href="https://codingapple.com/blog/openclaw-install/" target="_blank">Link</a>] 
 
 
 2025.12.27 - 2026.01.02
