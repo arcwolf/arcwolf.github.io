@@ -12,6 +12,11 @@ title: Project
 
 
 ### DEVELOPMENTS
+2026.03.20 - Under Dev.
+: **Planning a Platform Business**
+> Requirements:
+- IP (Domain and Service Name)
+
 2026.03.08 - Under Dev.
 : **AI Asistance** / Solo Development
 > Under preparation of the followings:
@@ -26,6 +31,13 @@ title: Project
 - Installation: [<a href="https://openclaw.ai/" target="_blank">Link</a>]
 <img src="{{ site.baseurl }}{{ site.figs.project_prgm_dev_openclaw_2 }}" />
 - Configureations: Gateway Auth, Permissions (700), Session Store, Plugins, Memory Search, Channel
+1. To allow OpenClaw to use GitHub Copilot CLI:
+- Activate GitHub Copilot subscription
+- Install GitHub CLI [<a href="https://cli.github.com/" target="_blank">Link</a>]
+- Install OpenClaw
+- Configure OpenClaw Provider: In OpenClaw's configuration, select the built-in github-copilot provider
+- Authenticate via GitHub CLI: The integration relies on authenticating your GitHub account through the standard GitHub CLI process.
+- How to add an agent: [<a href="https://wikidocs.net/blog/@peterai/7150/" target="_blank">Link</a>]
 1. CLI Applications (Lists)
 - Google Cloud CLI: [<a href="https://docs.cloud.google.com/sdk/docs/install-sdk?hl=ko" target="_blank">Link</a>] 
 1. Channel 
