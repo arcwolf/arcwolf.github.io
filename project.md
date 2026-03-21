@@ -15,7 +15,9 @@ title: Project
 2026.03.20 - Under Dev.
 : **Planning a Platform Business**
 > Requirements:
-- IP (Domain and Service Name)
+1. IP (Domain and Service Name)
+1. Document Works...
+
 
 2026.03.08 - Under Dev.
 : **AI Asistance** / Solo Development

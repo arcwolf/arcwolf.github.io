@@ -47,10 +47,10 @@ nav:
     - '/about/'
   Project:
     - '/project/'
-  Playground:
-    - '/playground/'
   Learning:
     - '/learning/'
+  Playground:
+    - '/playground/'
   # Trip:
   #   - '/trip/'
   # Blog:           

@@ -172,4 +172,4 @@ Gmaj
 : **School Days** / On a Picnic
 > <img src="{{ site.baseurl }}{{ site.figs.project_playground_moments_school_days_1 }}" />
 <img src="{{ site.baseurl }}{{ site.figs.project_playground_moments_school_days_2 }}" />
-At a Delta of Kamogawa in Kyoto.
+At Kamogawa Delta in Kyoto.
