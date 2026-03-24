@@ -64,6 +64,7 @@ title: Project
   - [ ] Identity (Service Name)
   - [ ] Foundation of something official
   - [ ] Place (for a business address)
+  - [ ] Server on Mac Mini
 3. Document works...
   - [ ] Overall process
   - [ ] Tax problems
