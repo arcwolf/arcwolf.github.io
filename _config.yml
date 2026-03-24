@@ -151,7 +151,9 @@ figs:
   project_playground_moments_school_days_1: /public/img/Fig+Playground+Moments+School_Days_1.jpg
   project_playground_moments_school_days_2: /public/img/Fig+Playground+Moments+School_Days_2.jpg
   
-  project_prgm_dev_data_optimization_1: /public/img_programming/Fig+Project+Prgm_Dev+Data_Optimization_1.png
+  project_prgm_dev_data_optimization_1: /public/img_learning/Fig+Project+Prgm_Dev+Data_Optimization_1.png
+  learning_wsl2_hyper-v-architecture_1: /public/img_learning/hyper-v-architecture.png
+  learning_wsl2_wsl-gui-screenshot_1: /public/img_learning/wsl-gui-screenshot.png
 
 
 # Puglins

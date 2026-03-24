@@ -13,8 +13,13 @@ title: Project
 
 ### Linux
 2026.03.24
-: **WSL2***
-> Linux GUI 앱에 대한 지원 설치
+: **WSL2** / 하이퍼바이저 (Hyper-V)
+> <img src="{{ site.baseurl }}{{ site.figs.learning_wsl2_hyper-v-architecture_1 }}" />
+[<a href="https://learn.microsoft.com/ko-kr/windows-server/virtualization/hyper-v/architecture" target="_blank">Link</a>]
+
+2026.03.24
+: **WSL2** / Linux GUI 앱에 대한 지원 설치
+> <img src="{{ site.baseurl }}{{ site.figs.learning_wsl2_wsl-gui-screenshot_1 }}" />
 [<a href="https://learn.microsoft.com/ko-kr/windows/wsl/tutorials/gui-apps" target="_blank">Link</a>]
 
 
