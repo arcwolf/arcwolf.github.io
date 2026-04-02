@@ -53,6 +53,50 @@ title: Project
 
 
 ### DEVELOPMENTS
+2026.04.01 - Under Dev.
+: **Multiagent Workflow**
+> <img src="{{ site.baseurl }}{{ site.figs.project_prgm_dev_openclaw_3 }}" />
+1. 목적
+  - 프로젝트마다 Session 및 Workspace 격리
+  - 시스템 프롬프트 경량화
+2. Subagent 구성 사례
+  - Awesome Claude Code Subagents [<a href="https://github.com/VoltAgent/awesome-claude-code-subagents" target="_blank">Link</a>]
+3. 기본적인 설정 방법
+  - [x] 새 Discord Bot 추가
+  - [x] 새 Agent 추가
+    ```
+    openclaw agents add agentname1
+    openclaw agents add agentname2
+    ```
+  - [x] .config에 계정/바인딩 추가 
+    ```
+    channels: {
+      discord: {
+        accounts: {
+          default: { token: "XXX" },
+          agentname1: { token: "XXX" },
+          agentname2: { token: "XXX" }
+        }
+      }
+    } 
+    bindings: [
+      { agentId: "light-speed", match: { channel: "discord", accountId: "default" } },
+      { agentId: "agentname1", match: { channel: "discord", accountId: "agentname1" } },
+      { agentId: "agentname2", match: { channel: "discord", accountId: "agentname2" } }
+    ]
+    ```
+  - [x] 재시작 & 확인
+  ```
+  openclaw gateway restart
+  openclaw agents list --bindings
+  ```
+  - [ ] Agent간 협엽 설정(.config)
+  ```
+  tools.agentToAgent.enabled: true
+  ```
+  
+
+
 2026.03.20 - Under Dev.
 : **Planning a Platform Business**
 > Requirements:
@@ -84,7 +128,7 @@ title: Project
   - [ ] Channel device for direct reviews (not a phone)
 
 
-2026.03.08 - Under Dev.
+2026.03.08 - 2026.03.28.
 : **AI Asistance** / Solo Development
 > Under preparation of the followings:
 1. Machine for AI (Macbook Pro 2016)
