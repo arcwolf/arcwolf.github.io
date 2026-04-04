@@ -53,6 +53,39 @@ title: Project
 
 
 ### DEVELOPMENTS
+2026.04.03 - 2026.04.04
+: **Autotrading Strategy Backtest Program**
+> <img src="{{ site.baseurl }}{{ site.figs.project_prgm_dev_autotrading_backtest_1 }}" />
+**우리는 세상의 특이점을 맞이하고 있습니다.**
+해당 프로젝트는 기본적인 아이디어를 가지고 AI툴을 사용하여 5시간만에 만들어졌습니다. 
+- Purpose of Development: Backtest for System Trading Strategy
+- Schematic Design:
+```
+  [entry point] main_backtest.py
+    └─[GUI Application] sub_backtest_viewer_app.py 
+        └─[Indicater Tests] sub_backtest_strategies.py
+```
+- Functional Details:
+```
+python main_backtest.py
+    └─ sub_backtest_viewer_app.main()
+            │
+            ├─ DataLoader (Binance Futures API)
+            │       │  OHLCV Candle List
+            │       │  + calc_rsi / calc_macd / calc_ema
+            │       │  + build_ssi_df()
+            │       │    (efi, volume_ma, etc)
+            ├─ StrategyExecutor
+            │   ├─ execute_ema_strategy()
+            │   ├─ execute_rsi_strategy()
+            │   ├─ execute_macd_strategy()
+            │   └─ execute_ssi_strategy()
+            │       │  List[TradeSignal]
+            │
+            ├─ ChartWidget
+            └─ SignalTableWidget
+```
+
 2026.04.01 - Under Dev.
 : **Multiagent Workflow**
 > <img src="{{ site.baseurl }}{{ site.figs.project_prgm_dev_openclaw_3 }}" />
