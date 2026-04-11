@@ -52,7 +52,7 @@ title: Project
 </style>
 
 
-### PROJECT COMMIT ACTIVITY (ONLY SOLO PROJECTS)
+### PROJECT COMMIT ACTIVITY
 
 <div id="gh-heatmap-wrap" style="margin-bottom:2rem;">
 <style>
