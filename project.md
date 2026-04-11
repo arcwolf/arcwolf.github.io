@@ -52,6 +52,76 @@ title: Project
 </style>
 
 
+### COMMIT ACTIVITY
+
+<div id="gh-heatmap-wrap" style="margin-bottom:2rem;">
+<style>
+#gh-heatmap-wrap .gh-row { display:flex; align-items:center; margin-bottom:4px; }
+#gh-heatmap-wrap .gh-label { width:200px; font-size:11px; color:#7d8590; text-align:right; padding-right:10px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+#gh-heatmap-wrap .gh-label a { color:#58a6ff; text-decoration:none; }
+#gh-heatmap-wrap .gh-cells { display:flex; gap:2px; flex:1; }
+#gh-heatmap-wrap .gh-cell { flex:1; height:14px; border-radius:2px; min-width:8px; cursor:default; }
+#gh-heatmap-wrap .gh-cell[data-level="0"] { background:#ebedf0; }
+#gh-heatmap-wrap .gh-cell[data-level="1"] { background:#9be9a8; }
+#gh-heatmap-wrap .gh-cell[data-level="2"] { background:#40c463; }
+#gh-heatmap-wrap .gh-cell[data-level="3"] { background:#30a14e; }
+#gh-heatmap-wrap .gh-cell[data-level="4"] { background:#216e39; }
+#gh-heatmap-wrap .gh-header { display:flex; margin-bottom:6px; }
+#gh-heatmap-wrap .gh-header-label { width:200px; }
+#gh-heatmap-wrap .gh-header-dates { display:flex; flex:1; }
+#gh-heatmap-wrap .gh-date-lbl { flex:1; font-size:9px; color:#7d8590; text-align:center; }
+#gh-heatmap-wrap .gh-legend { display:flex; align-items:center; gap:4px; font-size:11px; color:#7d8590; margin-top:8px; }
+#gh-heatmap-wrap .gh-legend-cell { width:12px; height:12px; border-radius:2px; }
+#gh-heatmap-wrap .gh-total-row { margin-top:10px; border-top:1px solid #d0d7de; padding-top:8px; }
+</style>
+<div id="gh-heatmap"></div>
+<div class="gh-legend">
+  Less
+  <div class="gh-legend-cell" style="background:#ebedf0"></div>
+  <div class="gh-legend-cell" style="background:#9be9a8"></div>
+  <div class="gh-legend-cell" style="background:#40c463"></div>
+  <div class="gh-legend-cell" style="background:#30a14e"></div>
+  <div class="gh-legend-cell" style="background:#216e39"></div>
+  More &nbsp;·&nbsp; <span id="gh-range-label" style="color:#7d8590"></span>
+</div>
+</div>
+<script>
+(function(){
+var DATA=[{"name":"dev-autotrade-bnf","url":"https://github.com/arcwolf/dev-autotrade-bnf","dates":["2026-03-26","2026-03-26","2026-03-26","2026-03-26","2026-03-27","2026-03-27","2026-03-27","2026-03-27","2026-03-27","2026-03-27","2026-04-01","2026-04-01","2026-04-01","2026-04-01","2026-04-02","2026-04-02","2026-04-02","2026-04-02","2026-04-02","2026-04-02","2026-04-02","2026-04-02","2026-04-02","2026-04-02","2026-04-03","2026-04-03","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-05","2026-04-06","2026-04-06","2026-04-07","2026-04-07","2026-04-07","2026-04-07","2026-04-08","2026-04-08","2026-04-09","2026-04-09","2026-04-10","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11"]},{"name":"dev-clihub","url":"https://github.com/arcwolf/dev-clihub","dates":["2026-03-26","2026-03-31","2026-03-31","2026-04-02","2026-04-03","2026-04-03","2026-04-04","2026-04-07","2026-04-07","2026-04-08","2026-04-08","2026-04-08","2026-04-08","2026-04-09","2026-04-09","2026-04-10","2026-04-10","2026-04-10","2026-04-11","2026-04-11","2026-04-11"]},{"name":"note-superbrainstorming","url":"https://github.com/arcwolf/note-superbrainstorming","dates":["2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-04","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11"]},{"name":"sec-planning","url":"https://github.com/arcwolf/sec-planning","dates":["2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-10","2026-04-11"]},{"name":"sec-finance","url":"https://github.com/arcwolf/sec-finance","dates":["2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11","2026-04-11"]},{"name":"rev-patents","url":"https://github.com/arcwolf/rev-patents","dates":["2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-05","2026-04-06","2026-04-06"]},{"name":"arcwolf.github.io","url":"https://github.com/arcwolf/arcwolf.github.io","dates":["2026-03-16","2026-03-17","2026-03-17","2026-03-19","2026-03-21","2026-03-22","2026-03-24","2026-03-24","2026-04-02","2026-04-04","2026-04-06"]},{"name":"report-autotrade-bnf","url":"https://github.com/arcwolf/report-autotrade-bnf","dates":["2026-03-26","2026-03-26","2026-03-26","2026-03-26","2026-03-26","2026-03-26","2026-03-26"]},{"name":"template-patent-application","url":"https://github.com/arcwolf/template-patent-application","dates":["2026-03-30","2026-03-30","2026-03-30","2026-03-30","2026-03-30","2026-03-30","2026-03-30","2026-03-30","2026-03-30","2026-03-30","2026-03-30"]},{"name":"guide-openclaw-on-windows10","url":"https://github.com/arcwolf/guide-openclaw-on-windows10","dates":["2026-03-29","2026-03-29","2026-03-29","2026-03-29","2026-03-29"]},{"name":"report-clihub","url":"https://github.com/arcwolf/report-clihub","dates":["2026-03-25","2026-03-26","2026-03-31","2026-04-02"]}];
+var start=new Date("2026-03-11"),end=new Date("2026-04-11"),days=[];
+for(var d=new Date(start);d<=end;d.setDate(d.getDate()+1))days.push(d.toISOString().slice(0,10));
+document.getElementById('gh-range-label').textContent=days[0]+' ~ '+days[days.length-1];
+var repoMaps=DATA.map(function(r){var m={};r.dates.forEach(function(d){m[d]=(m[d]||0)+1;});return{name:r.name,url:r.url,map:m,total:r.dates.length};});
+function lvl(c,mx){if(!c)return 0;if(c<=mx*.15)return 1;if(c<=mx*.35)return 2;if(c<=mx*.65)return 3;return 4;}
+var wrap=document.getElementById('gh-heatmap');
+// header
+var hdr=document.createElement('div');hdr.className='gh-row';
+var hl=document.createElement('div');hl.className='gh-label';hdr.appendChild(hl);
+var hc=document.createElement('div');hc.className='gh-cells';
+days.forEach(function(d,i){var l=document.createElement('div');l.className='gh-date-lbl gh-cell';l.style.height='14px';l.style.background='none';
+if(i%7===0){var dt=new Date(d);l.textContent=(dt.getMonth()+1)+'/'+(dt.getDate());}hc.appendChild(l);});
+hdr.appendChild(hc);wrap.appendChild(hdr);
+// rows
+repoMaps.forEach(function(r){
+var mx=Math.max.apply(null,days.map(function(d){return r.map[d]||0;}));
+var row=document.createElement('div');row.className='gh-row';
+var lbl=document.createElement('div');lbl.className='gh-label';
+lbl.innerHTML='<a href="'+r.url+'" target="_blank">'+r.name+'</a> <span style="color:#7d8590;font-size:10px;">('+r.total+')</span>';
+var cells=document.createElement('div');cells.className='gh-cells';
+days.forEach(function(d){var c=r.map[d]||0;var el=document.createElement('div');el.className='gh-cell';el.dataset.level=lvl(c,mx||1);
+el.title=d+(c?' — '+c+' commits':'');cells.appendChild(el);});
+row.appendChild(lbl);row.appendChild(cells);wrap.appendChild(row);});
+// total row
+var totRow=document.createElement('div');totRow.className='gh-row gh-total-row';
+var totLbl=document.createElement('div');totLbl.className='gh-label';totLbl.textContent='전체 활동';
+var totCells=document.createElement('div');totCells.className='gh-cells';
+var totByDay={};days.forEach(function(d){totByDay[d]=repoMaps.reduce(function(s,r){return s+(r.map[d]||0);},0);});
+var maxTot=Math.max.apply(null,Object.values(totByDay));
+days.forEach(function(d){var c=totByDay[d];var el=document.createElement('div');el.className='gh-cell';el.dataset.level=lvl(c,maxTot);el.style.height='18px';el.title=d+(c?' — total '+c+' commits':'');totCells.appendChild(el);});
+totRow.appendChild(totLbl);totRow.appendChild(totCells);wrap.appendChild(totRow);
+})();
+</script>
+
 ### DEVELOPMENTS
 2026.04.03 - 2026.04.04
 : **Autotrading Strategy Backtest Program**
