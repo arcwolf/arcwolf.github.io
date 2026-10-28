@@ -158,6 +158,9 @@ figs:
   learning_wsl2_hyper-v-architecture_1: /public/img_learning/hyper-v-architecture.png
   learning_wsl2_wsl-gui-screenshot_1: /public/img_learning/wsl-gui-screenshot.png
 
+audio:
+  playground_recordings_document_girl_track_idea_v2: /public/audio/Audio+Playground+Recordings+DocumentGirlTrackIdea_v2.mp3
+
 
 # Puglins
 mathjax: true # whether support mathjax
