@@ -14,17 +14,13 @@ title: Project
   height: 115px;
   border: 0;
 }
-
-.audio-player {
-  width: 100%;
-}
 </style>
 
 ### INSTRUMENT RECORDINGS
 2026.10.11
 : **Electronic Music Project** / Audio Recording
-> <audio class="audio-player" controls preload="metadata" src="{{ site.baseurl }}{{ site.audio.playground_recordings_document_girl_track_idea_v2 }}"></audio>
-Document Girl Track Idea (v2). A test sketch made with Ableton Live.
+> <iframe class="sc-player" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/arcwolf-706441070/261010_documentgirltrackidea_v&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<a href="https://soundcloud.com/arcwolf-706441070/261010_documentgirltrackidea_v" target="_blank">Document Girl Track Idea (v2).</a> A test sketch made with Ableton Live.
 
 2025.01.03
 : **Electronic Music Project** / Audio Recording
